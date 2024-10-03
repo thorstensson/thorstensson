@@ -19,7 +19,7 @@ I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue a
 
 <br/>
 
-[![Thomas Thorstensson](https://img.shields.io/badge/-thorstensson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasthorstensson)](https://www.linkedin.com/in/thomasthorstensson)
+[![Thomas Thorstensson](https://img.shields.io/badge/-Thorstensson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasthorstensson)](https://www.linkedin.com/in/thomasthorstensson)
 [![Old Portfolio](https://img.shields.io/badge/-Old_portfolio-ff4d01?style=flat-square&logo=Safari&logoColor=white&link=https://thomasthorstensson.net)](https://www.thomasthorstensson.net)
 [![Website](https://img.shields.io/badge/-Flickr-black?style=flat-square&logo=Flickr&logoColor=white&link=https://www.flickr.com/photos/thomasthorstensson/)](https://www.flickr.com/photos/thomasthorstensson/)
 
