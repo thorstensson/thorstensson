@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Thomas Thorstensson](https://github.com/user-attachments/assets/ac4417b0-aae0-422a-b866-3b8120c2d6ff)
 
-I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, games, ads; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. I've been GitHub lazy! But this year will see me pushing up several new projects to origin.—There; that is my commit-ment.
+I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, games, and ads; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. I've been GitHub lazy! But this year will see me pushing up several new projects to origin.—There; that is my commit-ment.
 
 <br/>
 
