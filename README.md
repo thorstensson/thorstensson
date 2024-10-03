@@ -21,7 +21,7 @@ I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue a
 
 [![Thomas Thorstensson](https://img.shields.io/badge/-thorstensson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasthorstensson)](https://www.linkedin.com/in/thomasthorstensson)
 [![Old Portfolio](https://img.shields.io/badge/-old_portfolio-ff4d01?style=flat-square&logo=Safari&logoColor=white&link=https://thomasthorstensson.net)](https://www.thomasthorstensson.net)
-[![Website](https://img.shields.io/badge/-photography-black?style=flat-square&logo=Flickr&logoColor=white&link=https://thomasthorstensson.photography)](https://www.thomasthorstensson.photography)
+[![Website](https://img.shields.io/badge/-photography-black?style=flat-square&logo=Flickr&logoColor=white&link=https://www.flickr.com/photos/thomasthorstensson/)](https://www.flickr.com/photos/thomasthorstensson/)
 
 - 🔭 I’m currently working on ...
 A set of UI components, some weird, others not. Just added (02/10/2024) my Vue 3 NavBar. Pushing one or two more next week.
