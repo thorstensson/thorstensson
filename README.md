@@ -1,11 +1,11 @@
 # Hello 👋 
 
-![Thomas Thorstensson](https://github.com/user-attachments/assets/ac4417b0-aae0-422a-b866-3b8120c2d6ff)
+![github-profile-header](https://github.com/user-attachments/assets/044b3d5d-deba-41fe-9a60-f31085f49f78)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasthorstensson) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1279151) 
 
 I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, to games, and dynamic ad campaigns; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. Relaxation is eating sardines by the sea in San Pol de Mar.
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on...<br>
   A set of minimalist UI components.
 
 ### 💻 Tech
