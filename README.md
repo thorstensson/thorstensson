@@ -1,6 +1,6 @@
 # Hello 👋 
 
-![github-profile-header](https://github.com/user-attachments/assets/044b3d5d-deba-41fe-9a60-f31085f49f78) 
+![github-profile-heade-2r](https://github.com/user-attachments/assets/f62f27a9-ee9f-41ac-a2aa-8249f9e89849)     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasthorstensson) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1279151) 
 
 I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, to games, and dynamic ad campaigns; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. Relaxation is eating sardines by the sea in San Pol de Mar.
