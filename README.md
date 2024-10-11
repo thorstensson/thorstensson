@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Thomas Thorstensson](https://github.com/user-attachments/assets/ac4417b0-aae0-422a-b866-3b8120c2d6ff)
 
-I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, to games, and dynamic ad campaigns; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. I've been GitHub lazy! But this year will see me pushing up several new projects to origin.—There; that is my commit-ment.
+I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue and UI/UX. Ex Londoner who now lives in sunny Barcelona. After many years working with everything from TypeScript, to games, and dynamic ad campaigns; I now strive to steer my career towards Vue and its great ecosystem. Fun to me is solving problems, discovering new code, and turning ideas into pixels. Relaxation is eating sardines by the sea in San Pol de Mar.
 
 <br/>
 
@@ -24,7 +24,7 @@ I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue a
 [![Website](https://img.shields.io/badge/-Flickr-black?style=flat-square&logo=Flickr&logoColor=white&link=https://www.flickr.com/photos/thomasthorstensson/)](https://www.flickr.com/photos/thomasthorstensson/)
 
 - 🔭 I’m currently working on ...
-A set of UI components, some weird, others not. Just added (02/10/2024) my Vue 3 NavBar. Pushing one or two more next week.
+A set of UI components, some weird, others not, and a new portfolio (don't look at the old one). Just added (02/10/2024) my new Vue 3 NavBar. 
 
 - ⚡ Fun fact: ...
 
