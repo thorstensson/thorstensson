@@ -26,9 +26,7 @@ I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue a
 - 🔭 I’m currently working on ...
 A set of UI components, some weird, others not, and a new portfolio (don't look at the old one). Just added (02/10/2024) my new Vue 3 NavBar. 
 
-- ⚡ Fun fact: ...
-
-![Stats](https://github.com/thorstensson/thorstensson/blob/master/stats.png?raw=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorstensson&layout=donut-vertical)](https://github.com/thorstensson/github-readme-stats)
 
 
 <br/>
