@@ -28,7 +28,7 @@ A set of UI components, some weird, others not, and a new portfolio (don't look 
 
 - ⚡ Fun fact: ...
 
-![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) 
+![Stats](https://github.com/thorstensson/thorstensson/blob/master/stats.png?raw=true) 
 
 
 <br/>
