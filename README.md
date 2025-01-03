@@ -55,7 +55,7 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 
 ---
 ### Other stuff
-💼 I’m looking for Full-Time Opportunities/roles.
+💼 I’m looking for Full-Time Opportunities/roles.<br>
 ♟ I play a lot of chess, and I am 2100+ rated (ugh) on chess.com and trying to improve.
 
 
