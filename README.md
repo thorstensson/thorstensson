@@ -37,8 +37,11 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 📫 How to reach me: ... thomas.thorstensson@gmail.com 
 
 
-### Actions
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 
