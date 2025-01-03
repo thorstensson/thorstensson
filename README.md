@@ -31,7 +31,8 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ### Recent stuff
 🔭 I’m currently working on ... 
 - My next Portfolio (Vue 3.5+).
-- Updates to my Audio Player, a new Landing Page.
+- Updates to my Audio Player.
+- A new Landing Page.
 - A set of mysterious composables.<br>
 
 📫 How to reach me: ... thomas.thorstensson@gmail.com 
