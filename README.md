@@ -41,7 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/8bd6ce5810e2b65dbb44ab5ea21daad5a4e5041b)
+2. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/afdbe285b908bad5feb23969474e49dd030e303c)
+3. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/5ede0e2b99e1acf3d8a38d072c64394bf1bfdfe8)
+4. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/0ef89beef0a3f51051a70cc0e5848d052b2b3474)
+5. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/33440cdd46636d4a1a336a36acbe7725c3ae7bc4)
+6. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/90960a69d407fd14172db04398b04a8d1803fa6e)
+7. ➕ Created a new branch [`main`](https://github.com/thorstensson/audio-player-vue-ts/tree/main) in [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts)
+8. 🎉 Created a new repository [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts)
+9. 🆕 Opened an issue [#5](https://github.com/thorstensson/thorstensson/issues/5) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+10. ➕ Created a new branch [`master`](https://github.com/thorstensson/audio-player-vue-ts/tree/master) in [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts)
 <!--END_SECTION:activity-->
 
 
