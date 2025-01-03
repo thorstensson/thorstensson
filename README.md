@@ -24,10 +24,11 @@
 ![Playwright](https://img.shields.io/badge/Playwright-ffffff?style=for-the-badge&color=000000)
 ![TresJS](https://img.shields.io/badge/TresJS-ffffff?style=for-the-badge&color=000000)
 ![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&color=000000)
-
+---
 ### About
 I’m a Swedish Front end developer with an interest in code that creates great user experiences, whether coding named views in Vue router, loading low poly 3D models, of finding the best approach to asynchronous API calls. Consider me equally fascinated by GraphQL, Web Audio API, and much more. I've worked on projects involving e-Learning, 2D games, landing pages, sites—and worked hard in startups, because you have to. Since my move to Barcelona, and since having found a partner here, I realise I want to leave freelancing behind and embark on a permanent position. Feel free to get in touch.
 
+---
 ### Recent stuff
 🔭 I’m currently working on ... 
 - My next Portfolio (Vue 3.5+).
@@ -37,8 +38,8 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 
 📫 How to reach me: ... thomas.thorstensson@gmail.com 
 
-
-### :zap: Recent Activity
+---
+### :zap: Recent Actions
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/8bd6ce5810e2b65dbb44ab5ea21daad5a4e5041b)
