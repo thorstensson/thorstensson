@@ -1,20 +1,47 @@
-# Hello
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thorstensson" alt="visitor badge"/></p>
 
-I'm a Swedish / Tanzanian developer and designer, fascinated by all things Vue, SPA's and UI/UX. 
+![Thomas Thorstensson](https://github.com/user-attachments/assets/ac4417b0-aae0-422a-b866-3b8120c2d6ff)
 
-After many years of working with everything from TypeScript, to games, and dynamic ad campaigns; I now strive to steer my career towards Vue and its great ecosystem. 
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&color=000000)
+![VSCode](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&color=000000)
+![ESLint](https://img.shields.io/badge/ESLint-ffffff?style=for-the-badge&color=000000)
+![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&color=000000)
+![Netlify](https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&color=000000)
+![WebPack](https://img.shields.io/badge/WebPack-ffffff?style=for-the-badge&color=000000)
+![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&color=67ea53)
+![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&color=67ea53)
+![HeroIcons](https://img.shields.io/badge/HeroIcons-ffffff?style=for-the-badge&color=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&color=f2ff09)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&color=3756EC)
+![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&color=000000)
+![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&color=000000)
+![Axios](https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&color=000000)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-ffffff?style=for-the-badge&color=000000)
+![Hygraph](https://img.shields.io/badge/Hygraph-ffffff?style=for-the-badge&color=000000)
+![AirTable](https://img.shields.io/badge/AirTable-ffffff?style=for-the-badge&color=000000)
+![GSAP](https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&color=000000)
+![Playwright](https://img.shields.io/badge/Playwright-ffffff?style=for-the-badge&color=000000)
+![TresJS](https://img.shields.io/badge/TresJS-ffffff?style=for-the-badge&color=000000)
+![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&color=000000)
 
-🔭 I’m currently working on...
-A loosely coupled set of UI components (Vue), some other creative stuff, and a new portfolio.
+### About
+I’m a Swedish Front end developer with an interest in code that creates great user experiences, whether coding named views in Vue router, loading low poly 3D models, of finding the best approach to asynchronous API calls. Consider me equally fascinated by GraphQL, Web Audio API, and much more. I've worked on projects involving e-Learning, 2D games, landing pages, sites—and worked hard in startups, because you have to. Since my move to Barcelona, and since having found a partner here, I realise I want to leave freelancing behind and embark on a permanent position. Feel free to get in touch.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasthorstensson) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1279151) 
+### Recent stuff
+🔭 I’m currently working on ... 
+- My next Portfolio (Vue 3.5+).
+- Updates to my Audio Player, a new Landing Page.
+- A set of mysterious composables.<br>
 
-### 💻 Tech
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Tres js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+📫 How to reach me: ... thomas.thorstensson@gmail.com 
 
-### ✍️ Philosophy
-> We are most nearly ourselves when we achieve the seriousness of the child at play.
-> -- Heraclitus
 
-### 💰 Stars if you
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thorstensson) 
+### Actions
+<!--START_SECTION:activity-->
+
+
+
+
+-----
+Credits: [thorstensson](https://github.com/thorstensson)
