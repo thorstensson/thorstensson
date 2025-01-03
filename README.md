@@ -40,7 +40,6 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 
 ---
 ### :zap: Recent Actions
-
 <!--START_SECTION:activity-->
 1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/8bd6ce5810e2b65dbb44ab5ea21daad5a4e5041b)
 2. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/afdbe285b908bad5feb23969474e49dd030e303c)
@@ -54,7 +53,10 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 10. ➕ Created a new branch [`master`](https://github.com/thorstensson/audio-player-vue-ts/tree/master) in [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts)
 <!--END_SECTION:activity-->
 
-
+---
+### Other stuff
+💼 I’m looking for Full-Time Opportunities/roles.
+♟ I play a lot of chess, and I am 2100+ rated (ugh) on chess.com and trying to improve.
 
 
 -----
