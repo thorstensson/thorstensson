@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f2bc9ccd1da0b7e4c4bf9334ab919a96974342bd)
-2. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/64817d4056f0be2b034b0e921085405c3abe83b9)
-3. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/8f9c71e1f23ee70b2014a404a8a70067eb5a6d45)
-4. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/333d012de19a1d9a1c61627c6e391130acfa6fdd)
-5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/b3bdc13a3689232260d0c44d205fa02b27d86c3d)
-6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/57a2c70233bf394a6d9bc2b735a210d2c6e5bab2)
-7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/12ff50427013bf4b8f1bb41968fe7eb37371af0d)
-8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/02fcc4e9ff114916307945f77668361436abca46)
-9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/261b0ec459b9cd99797a530275c86e8fbe350e49)
-10. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/8bd6ce5810e2b65dbb44ab5ea21daad5a4e5041b)
+1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/d9560bdcba2c3eda90183ad43816db9ac6211871)
+2. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f2bc9ccd1da0b7e4c4bf9334ab919a96974342bd)
+3. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/64817d4056f0be2b034b0e921085405c3abe83b9)
+4. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/8f9c71e1f23ee70b2014a404a8a70067eb5a6d45)
+5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/333d012de19a1d9a1c61627c6e391130acfa6fdd)
+6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/b3bdc13a3689232260d0c44d205fa02b27d86c3d)
+7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/57a2c70233bf394a6d9bc2b735a210d2c6e5bab2)
+8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/12ff50427013bf4b8f1bb41968fe7eb37371af0d)
+9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/02fcc4e9ff114916307945f77668361436abca46)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/261b0ec459b9cd99797a530275c86e8fbe350e49)
 <!--END_SECTION:activity-->
 
 ---
