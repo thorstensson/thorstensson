@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/aa3a2fc6bd72729b084640424e25ba7cf5aafc24)
-2. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/aa0cea2d7fa88705397ebab1712e9b315ff1c557)
-3. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/02f9596489f09d39c2171d319334ce1a0778e921)
-4. 🗣 Commented on issue [#23](https://github.com/TheDanniCraft/activity-log/issues/23) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/23#issuecomment-2574089830)
-5. 🆕 Opened an issue [#23](https://github.com/TheDanniCraft/activity-log/issues/23) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-6. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/6d3281ae1e95a3314f856befd88741e02ac018cf)
-7. 📝 Committed to [thorstensson/portfolio-I](https://github.com/thorstensson/portfolio-I/commit/83e00132fcee7a3fef98d7a2c2511c716672697a)
-8. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/58a396cbba29bc25aea29f5fe10dea2e5a4db486)
-9. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/62de378b7b06c1f8f82cb90ed1159ebbb1442c97)
-10. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/d7d9fa21c2df3037fb27fdbf76255841a3c58046)
+1. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/366a22e648b7b8865c8293f4dd0c1d608a0e3df1)
+2. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/4bd2d03d95688c27c7a8b7186ea4c3614c1a465c)
+3. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/9558e24610c05c5ed433b61ebf98e0371486d920)
+4. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/93a8370539cad035a406ac70cbf98de5889ff4e1)
+5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/0e03594655684a932a135ed6bf8a43a22bc3f872)
+6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/cbf86842178489b6e0feb2e7c0c3a8ed55746c77)
+7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/0cd88d50b91674451ff7dd8ae748d8cf13744ccd)
+8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/aa3a2fc6bd72729b084640424e25ba7cf5aafc24)
+9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/aa0cea2d7fa88705397ebab1712e9b315ff1c557)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/02f9596489f09d39c2171d319334ce1a0778e921)
 <!--END_SECTION:activity-->
 
 ---
