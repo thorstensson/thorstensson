@@ -53,8 +53,6 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 10. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/7e7828fe249065416521b07402328959269a08eb)
 <!--END_SECTION:activity-->
 
-![Snake animation](https://raw.githubusercontent.com/thorstensson/thorstensson/output/github-contribution-grid-snake-dark.svg)
-
 ---
 ### Other stuff
 💼 I’m looking for Full-Time Opportunities/roles.<br>
@@ -63,3 +61,5 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 
 -----
 Credits: [thorstensson](https://github.com/thorstensson)
+
+![Snake animation](https://raw.githubusercontent.com/thorstensson/thorstensson/output/github-contribution-grid-snake-dark.svg)
