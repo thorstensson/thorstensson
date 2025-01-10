@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/ce02c3e18ed639d1d350b0e606f252891dd39579)
-2. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/9338da3e954e295dacb5107755cbffabdaa53838)
-3. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/d1a11b6383f86c7589561eb090994592b0858c6c)
-4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/87802fc7c8f156be290dd06967f4925d539c2800)
-5. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/0f633e3bab234cd2097f08a6fcb6be5728657736)
-6. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/edf4071cc4e6ee38679a5ca6edbcdcea7ee73d01)
-7. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/aaa87a8b96160586058a4a17a59e9bb20d46123f)
-8. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/3cf657f119e2f90b8429f305d9b24248a7a66ff9)
-9. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/7eaa4633bab4c47532ca9030bb9937602bfb1790)
-10. ➕ Created a new branch [`main`](https://github.com/thorstensson/audio-player-portfolio-vue-ts/tree/main) in [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts)
+1. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/31a630e186475f325ac432d96a323d2917b0b52c)
+2. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/ce02c3e18ed639d1d350b0e606f252891dd39579)
+3. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/9338da3e954e295dacb5107755cbffabdaa53838)
+4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/d1a11b6383f86c7589561eb090994592b0858c6c)
+5. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/87802fc7c8f156be290dd06967f4925d539c2800)
+6. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/0f633e3bab234cd2097f08a6fcb6be5728657736)
+7. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/edf4071cc4e6ee38679a5ca6edbcdcea7ee73d01)
+8. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/aaa87a8b96160586058a4a17a59e9bb20d46123f)
+9. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/3cf657f119e2f90b8429f305d9b24248a7a66ff9)
+10. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/7eaa4633bab4c47532ca9030bb9937602bfb1790)
 <!--END_SECTION:activity-->
 
 ---
