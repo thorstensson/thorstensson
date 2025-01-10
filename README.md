@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/edf4071cc4e6ee38679a5ca6edbcdcea7ee73d01)
-2. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/aaa87a8b96160586058a4a17a59e9bb20d46123f)
-3. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/3cf657f119e2f90b8429f305d9b24248a7a66ff9)
-4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/7eaa4633bab4c47532ca9030bb9937602bfb1790)
-5. ➕ Created a new branch [`main`](https://github.com/thorstensson/audio-player-portfolio-vue-ts/tree/main) in [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts)
-6. 🎉 Created a new repository [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts)
-7. 🆕 Opened an issue [#6](https://github.com/thorstensson/thorstensson/issues/6) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
-8. 🗣 Commented on issue [#121](https://github.com/mrmlnc/vscode-scss/issues/121) in [mrmlnc/vscode-scss](https://github.com/mrmlnc/vscode-scss): [View Comment](https://github.com/mrmlnc/vscode-scss/issues/121#issuecomment-2578430211)
-9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/366a22e648b7b8865c8293f4dd0c1d608a0e3df1)
-10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/4bd2d03d95688c27c7a8b7186ea4c3614c1a465c)
+1. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/0f633e3bab234cd2097f08a6fcb6be5728657736)
+2. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/edf4071cc4e6ee38679a5ca6edbcdcea7ee73d01)
+3. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/aaa87a8b96160586058a4a17a59e9bb20d46123f)
+4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/3cf657f119e2f90b8429f305d9b24248a7a66ff9)
+5. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/7eaa4633bab4c47532ca9030bb9937602bfb1790)
+6. ➕ Created a new branch [`main`](https://github.com/thorstensson/audio-player-portfolio-vue-ts/tree/main) in [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts)
+7. 🎉 Created a new repository [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts)
+8. 🆕 Opened an issue [#6](https://github.com/thorstensson/thorstensson/issues/6) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+9. 🗣 Commented on issue [#121](https://github.com/mrmlnc/vscode-scss/issues/121) in [mrmlnc/vscode-scss](https://github.com/mrmlnc/vscode-scss): [View Comment](https://github.com/mrmlnc/vscode-scss/issues/121#issuecomment-2578430211)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/366a22e648b7b8865c8293f4dd0c1d608a0e3df1)
 <!--END_SECTION:activity-->
 
 ---
