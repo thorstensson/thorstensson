@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/19acff82963f917534932cfe4c1964aa60450f3a)
-2. ➕ Created a new branch [`main`](https://github.com/thorstensson/flowerpod/tree/main) in [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod)
-3. 🆕 Opened an issue [#7](https://github.com/thorstensson/thorstensson/issues/7) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
-4. 🎉 Created a new repository [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod)
-5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/cdf80763a39c79a11f08c03f8d3e1ea170e9ffc9)
-6. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/351ef1fe2c4c4a4da00b9f93f8c747cee89e1f8d)
-7. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/31a630e186475f325ac432d96a323d2917b0b52c)
-8. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/ce02c3e18ed639d1d350b0e606f252891dd39579)
-9. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/9338da3e954e295dacb5107755cbffabdaa53838)
-10. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/d1a11b6383f86c7589561eb090994592b0858c6c)
+1. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/df4c3de924b4c2062de91411a6b046ae10388519)
+2. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/9db82b94432a23578dc529b4ce9400ec3f04cc73)
+3. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/110b694d5b9f5e1cdea0befa02bf5a962a38d318)
+4. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/19acff82963f917534932cfe4c1964aa60450f3a)
+5. ➕ Created a new branch [`main`](https://github.com/thorstensson/flowerpod/tree/main) in [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod)
+6. 🆕 Opened an issue [#7](https://github.com/thorstensson/thorstensson/issues/7) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+7. 🎉 Created a new repository [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod)
+8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/cdf80763a39c79a11f08c03f8d3e1ea170e9ffc9)
+9. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/351ef1fe2c4c4a4da00b9f93f8c747cee89e1f8d)
+10. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/31a630e186475f325ac432d96a323d2917b0b52c)
 <!--END_SECTION:activity-->
 
 ---
