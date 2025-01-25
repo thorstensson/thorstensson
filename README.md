@@ -41,16 +41,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/2ec3997c9ef9b70ccd29cdc392aa52ef2810e9ac)
-2. ➕ Created a new branch [`main`](https://github.com/thorstensson/landing-page-nuxt/tree/main) in [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt)
-3. 🎉 Created a new repository [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt)
-4. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/e77d389eecd704c7c2d7476a130de7f0d378c9b4)
-5. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/df4c3de924b4c2062de91411a6b046ae10388519)
-6. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/9db82b94432a23578dc529b4ce9400ec3f04cc73)
-7. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/110b694d5b9f5e1cdea0befa02bf5a962a38d318)
-8. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/19acff82963f917534932cfe4c1964aa60450f3a)
-9. ➕ Created a new branch [`main`](https://github.com/thorstensson/flowerpod/tree/main) in [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod)
-10. 🆕 Opened an issue [#7](https://github.com/thorstensson/thorstensson/issues/7) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+1. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/d96f2f631a23e2337330da0b6d5115218f703750)
+2. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/ed20e9e02f34419a6a8d42783d6570f086a18d15)
+3. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/80ea51398bf6d2ca277cf9cd680d2e26275fa92e)
+4. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/2ec3997c9ef9b70ccd29cdc392aa52ef2810e9ac)
+5. ➕ Created a new branch [`main`](https://github.com/thorstensson/landing-page-nuxt/tree/main) in [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt)
+6. 🎉 Created a new repository [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt)
+7. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/e77d389eecd704c7c2d7476a130de7f0d378c9b4)
+8. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/df4c3de924b4c2062de91411a6b046ae10388519)
+9. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/9db82b94432a23578dc529b4ce9400ec3f04cc73)
+10. 📝 Committed to [thorstensson/flowerpod](https://github.com/thorstensson/flowerpod/commit/110b694d5b9f5e1cdea0befa02bf5a962a38d318)
 <!--END_SECTION:activity-->
 
 ---
