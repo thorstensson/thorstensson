@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/5e3b6f6c384b32d0a0b4bd2019a3368a69a2eabc)
-2. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/bccaefa9693683321a7d259a2276496918c076dc)
-3. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/98d3e0cb45dd24e338aae0b9d77767f32cdd4363)
-4. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/60b130250e2f9814af56ee6266e94ac77078751d)
-5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/c1f4bb6928059f3d4bacd315683cc0828ab9316b)
-6. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/d96f2f631a23e2337330da0b6d5115218f703750)
-7. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/ed20e9e02f34419a6a8d42783d6570f086a18d15)
-8. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/80ea51398bf6d2ca277cf9cd680d2e26275fa92e)
-9. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/2ec3997c9ef9b70ccd29cdc392aa52ef2810e9ac)
-10. ➕ Created a new branch [`main`](https://github.com/thorstensson/landing-page-nuxt/tree/main) in [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt)
+1. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/e993d98d1c2cbf78618a8b21e77869585a881565)
+2. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/5e3b6f6c384b32d0a0b4bd2019a3368a69a2eabc)
+3. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/bccaefa9693683321a7d259a2276496918c076dc)
+4. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/98d3e0cb45dd24e338aae0b9d77767f32cdd4363)
+5. 📝 Committed to [thorstensson/vue-navbar](https://github.com/thorstensson/vue-navbar/commit/60b130250e2f9814af56ee6266e94ac77078751d)
+6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/c1f4bb6928059f3d4bacd315683cc0828ab9316b)
+7. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/d96f2f631a23e2337330da0b6d5115218f703750)
+8. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/ed20e9e02f34419a6a8d42783d6570f086a18d15)
+9. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/80ea51398bf6d2ca277cf9cd680d2e26275fa92e)
+10. 📝 Committed to [thorstensson/landing-page-nuxt](https://github.com/thorstensson/landing-page-nuxt/commit/2ec3997c9ef9b70ccd29cdc392aa52ef2810e9ac)
 <!--END_SECTION:activity-->
 
 ---
