@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/a6d738e55a17d3de2fdd40bec537580ea0a8c12e)
-2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/4581ab73244ebcb3ec4eb8a507387794ebf0168c)
-3. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/2252d86f2f5d4274144fbe915063ef1b423f602c)
-4. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/32eeeb37a740bf9d880f1a88d4f8591209d02254)
-5. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/90421217895d3e1e0e52f24563c08b077062e40c)
-6. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/5b4898b7b338393cf1fa97cb5a45bee1613d77b8)
-7. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/da07b301fef7c6c68240ab0979418097655c77f8)
-8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/ef03549a6b87e3ea760ea139e4dcc845cc2acb1a)
-9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/eced704311cb69b02b388d0b92686f386bfa2a8f)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/5f897361f38e2d0e80e9eb9e0f09a68f60ee1297)
+1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/6d5a2fd34d15dc45db6d91de921f22700dfaeb1b)
+2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/a6d738e55a17d3de2fdd40bec537580ea0a8c12e)
+3. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/4581ab73244ebcb3ec4eb8a507387794ebf0168c)
+4. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/2252d86f2f5d4274144fbe915063ef1b423f602c)
+5. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/32eeeb37a740bf9d880f1a88d4f8591209d02254)
+6. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/90421217895d3e1e0e52f24563c08b077062e40c)
+7. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/5b4898b7b338393cf1fa97cb5a45bee1613d77b8)
+8. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/da07b301fef7c6c68240ab0979418097655c77f8)
+9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/ef03549a6b87e3ea760ea139e4dcc845cc2acb1a)
+10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/eced704311cb69b02b388d0b92686f386bfa2a8f)
 <!--END_SECTION:activity-->
 
 ---
