@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/bb0eca348efdac59f63cfec3e1c4274b9958c9a7)
-2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/58daeb56b9a04d0431b5ddca78f28d75bcdfb8a0)
-3. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/5c9505e9c28a65e317f99df5894422c274af4ced)
-4. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/68c7fffc92658c92f330fb0794329e05876d4cb9)
-5. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/3c539e9e9a65fa72a32c23a1a50f4b20d4db694c)
-6. 📝 Committed to [thorstensson/portfolio-I](https://github.com/thorstensson/portfolio-I/commit/813a024a3ad171004ec3ebf631bb24e0eee4157d)
-7. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/6d5a2fd34d15dc45db6d91de921f22700dfaeb1b)
-8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/a6d738e55a17d3de2fdd40bec537580ea0a8c12e)
-9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/4581ab73244ebcb3ec4eb8a507387794ebf0168c)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/2252d86f2f5d4274144fbe915063ef1b423f602c)
+1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b6770537e6713051b9ee1f71401051f29099f815)
+2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/bb0eca348efdac59f63cfec3e1c4274b9958c9a7)
+3. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/58daeb56b9a04d0431b5ddca78f28d75bcdfb8a0)
+4. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/5c9505e9c28a65e317f99df5894422c274af4ced)
+5. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/68c7fffc92658c92f330fb0794329e05876d4cb9)
+6. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/3c539e9e9a65fa72a32c23a1a50f4b20d4db694c)
+7. 📝 Committed to [thorstensson/portfolio-I](https://github.com/thorstensson/portfolio-I/commit/813a024a3ad171004ec3ebf631bb24e0eee4157d)
+8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/6d5a2fd34d15dc45db6d91de921f22700dfaeb1b)
+9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/a6d738e55a17d3de2fdd40bec537580ea0a8c12e)
+10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/4581ab73244ebcb3ec4eb8a507387794ebf0168c)
 <!--END_SECTION:activity-->
 
 ---
