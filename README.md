@@ -53,7 +53,6 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 7. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/68c7fffc92658c92f330fb0794329e05876d4cb9)
 8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/3c539e9e9a65fa72a32c23a1a50f4b20d4db694c)
 9. 📝 Committed to [thorstensson/portfolio-I](https://github.com/thorstensson/portfolio-I/commit/813a024a3ad171004ec3ebf631bb24e0eee4157d)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/6d5a2fd34d15dc45db6d91de921f22700dfaeb1b)
 <!--END_SECTION:activity-->
 
 ---
