@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/ea4fcc1ebff2b738674ec89a0a7529c105f86071)
-2. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/57368f98a3a123d19ff6ce0d8d0a2eda93ddc2df)
-3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/0da5d1ce17e0810e1c2a50120e13c4983bf4ed08)
-4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/9625181a75f16db862e98b973cc3c264e374c69e)
-5. ➕ Created a new branch [`main`](https://github.com/thorstensson/folio-2025/tree/main) in [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025)
-6. 🎉 Created a new repository [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025)
-7. 🗣 Commented on issue [#491](https://github.com/pixijs/filters/issues/491) in [pixijs/filters](https://github.com/pixijs/filters): [View Comment](https://github.com/pixijs/filters/issues/491#issuecomment-2708843548)
-8. 🆕 Opened an issue [#491](https://github.com/pixijs/filters/issues/491) in [pixijs/filters](https://github.com/pixijs/filters)
-9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b6770537e6713051b9ee1f71401051f29099f815)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/bb0eca348efdac59f63cfec3e1c4274b9958c9a7)
+1. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/42d4188d03a95d66f1492012285b1beec65f3553)
+2. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/ea4fcc1ebff2b738674ec89a0a7529c105f86071)
+3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/57368f98a3a123d19ff6ce0d8d0a2eda93ddc2df)
+4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/0da5d1ce17e0810e1c2a50120e13c4983bf4ed08)
+5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/9625181a75f16db862e98b973cc3c264e374c69e)
+6. ➕ Created a new branch [`main`](https://github.com/thorstensson/folio-2025/tree/main) in [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025)
+7. 🎉 Created a new repository [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025)
+8. 🗣 Commented on issue [#491](https://github.com/pixijs/filters/issues/491) in [pixijs/filters](https://github.com/pixijs/filters): [View Comment](https://github.com/pixijs/filters/issues/491#issuecomment-2708843548)
+9. 🆕 Opened an issue [#491](https://github.com/pixijs/filters/issues/491) in [pixijs/filters](https://github.com/pixijs/filters)
+10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b6770537e6713051b9ee1f71401051f29099f815)
 <!--END_SECTION:activity-->
 
 ---
