@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/0a790ba8d6b2e1f5d772729778bfadc379a121d8)
-2. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e3d7de6ade9a7220e2fe904495c31f7d0e04e033)
-3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/10f59eaee7540a071f60530e895bd2b1e764643b)
-4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/undefined)
-5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/c771353dc7881463c5a9592fec6934e3b95a2f6e)
-6. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/74207c8e94f11409b3672bc6645cfcc87dd159fe)
-7. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/9da97f73097f305f5ee4269b8261244fdcfa3283)
-8. ➕ Created a new branch [`main`](https://github.com/thorstensson/todolist/tree/main) in [thorstensson/todolist](https://github.com/thorstensson/todolist)
-9. 🎉 Created a new repository [thorstensson/todolist](https://github.com/thorstensson/todolist)
-10. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/42d4188d03a95d66f1492012285b1beec65f3553)
+1. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/b5645615119900c6ff5101a8654ff3e390048cdb)
+2. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/6de4ecf1a963aac81a2254444ddebe2f72998619)
+3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/0a790ba8d6b2e1f5d772729778bfadc379a121d8)
+4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e3d7de6ade9a7220e2fe904495c31f7d0e04e033)
+5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/10f59eaee7540a071f60530e895bd2b1e764643b)
+6. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/undefined)
+7. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/c771353dc7881463c5a9592fec6934e3b95a2f6e)
+8. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/74207c8e94f11409b3672bc6645cfcc87dd159fe)
+9. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/9da97f73097f305f5ee4269b8261244fdcfa3283)
+10. ➕ Created a new branch [`main`](https://github.com/thorstensson/todolist/tree/main) in [thorstensson/todolist](https://github.com/thorstensson/todolist)
 <!--END_SECTION:activity-->
 
 ---
