@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
-2. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
-3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/d3efd05150e9691fe1e4f94aa12a77f05f258647)
-4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e82fa4c2584be4e6d95eed21a28600bedc1f9bfe)
-5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/857cbe8939e37577e58a27f98c86f412c11462b5)
-6. undefined
-7. 🍴 Forked a private repo
-8. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/b5645615119900c6ff5101a8654ff3e390048cdb)
-9. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/6de4ecf1a963aac81a2254444ddebe2f72998619)
-10. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/0a790ba8d6b2e1f5d772729778bfadc379a121d8)
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
+3. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
+4. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/d3efd05150e9691fe1e4f94aa12a77f05f258647)
+5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e82fa4c2584be4e6d95eed21a28600bedc1f9bfe)
+6. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/857cbe8939e37577e58a27f98c86f412c11462b5)
+7. undefined
+8. 🍴 Forked a private repo
+9. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/b5645615119900c6ff5101a8654ff3e390048cdb)
+10. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/6de4ecf1a963aac81a2254444ddebe2f72998619)
 <!--END_SECTION:activity-->
 
 ---
