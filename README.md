@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `reserve-milestone-thomas` in a private repo
-2. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch `reserve-milestone-thomas` in a private repo
 3. 📝 Committed to a private repo
-4. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
-5. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
-6. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/d3efd05150e9691fe1e4f94aa12a77f05f258647)
-7. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e82fa4c2584be4e6d95eed21a28600bedc1f9bfe)
-8. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/857cbe8939e37577e58a27f98c86f412c11462b5)
-9. undefined
-10. 🍴 Forked a private repo
+4. 📝 Committed to a private repo
+5. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
+6. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
+7. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/d3efd05150e9691fe1e4f94aa12a77f05f258647)
+8. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/e82fa4c2584be4e6d95eed21a28600bedc1f9bfe)
+9. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/857cbe8939e37577e58a27f98c86f412c11462b5)
+10. undefined
 <!--END_SECTION:activity-->
 
 ---
