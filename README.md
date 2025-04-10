@@ -48,12 +48,12 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. ➕ Created a new branch `reserve-milestone-thomas` in a private repo
-6. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. ➕ Created a new branch `reserve-milestone-thomas` in a private repo
 7. 📝 Committed to a private repo
-8. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
-9. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
-10. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/d3efd05150e9691fe1e4f94aa12a77f05f258647)
+8. 📝 Committed to a private repo
+9. ➕ Created a new branch `responsive-milestone-thomas` in a private repo
+10. 📝 Committed to [thorstensson/folio-2025](https://github.com/thorstensson/folio-2025/commit/4660d6d0c3a22f13f721a556bcc42af92ada21c0)
 <!--END_SECTION:activity-->
 
 ---
