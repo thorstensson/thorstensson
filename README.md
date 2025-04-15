@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `financial-milestone-thomas` in a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. ➕ Created a new branch `dues-milestone-thomas` in a private repo
+1. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/24c455a7909cd58918753821b3766351831056b2)
+2. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/c66704400b49323a16d97ef9512d3e4157dc1d3b)
+3. ➕ Created a new branch `financial-milestone-thomas` in a private repo
+4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
+6. ➕ Created a new branch `dues-milestone-thomas` in a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. ➕ Created a new branch `reserve-milestone-thomas` in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
