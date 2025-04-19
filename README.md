@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/93fa2da1dbffddd1eaecdf25fb6e9678afe73bed)
-2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/581c65d04a484043ca94daf06fcce01cdb63d050)
-3. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/7f06718b88f50b472aae78822d672c719a2c3f3d)
-4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/ab81412a0f279248c5b3d21f05f654253d9b219a)
-5. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/e559b27d15591f9e6cb183ad65f6ca75eb5c1917)
-6. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/24c455a7909cd58918753821b3766351831056b2)
-7. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/c66704400b49323a16d97ef9512d3e4157dc1d3b)
-8. ➕ Created a new branch `financial-milestone-thomas` in a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/98d3af20ae4c6f5614dfc00c010968b4849d34c2)
+2. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b24af22fc8596f0c8165b6c835a5d11127a0518d)
+3. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/93fa2da1dbffddd1eaecdf25fb6e9678afe73bed)
+4. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/581c65d04a484043ca94daf06fcce01cdb63d050)
+5. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/7f06718b88f50b472aae78822d672c719a2c3f3d)
+6. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/ab81412a0f279248c5b3d21f05f654253d9b219a)
+7. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/e559b27d15591f9e6cb183ad65f6ca75eb5c1917)
+8. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/24c455a7909cd58918753821b3766351831056b2)
+9. 📝 Committed to [thorstensson/audio-player-vue-ts](https://github.com/thorstensson/audio-player-vue-ts/commit/c66704400b49323a16d97ef9512d3e4157dc1d3b)
+10. ➕ Created a new branch `financial-milestone-thomas` in a private repo
 <!--END_SECTION:activity-->
 
 ---
