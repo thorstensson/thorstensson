@@ -48,12 +48,12 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b8085379f5d4a8c13294d0e65188fe4227e7c391)
-6. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/65d9dbe3bbbe2379abc3cf2ce2fc1ef6e4c312df)
-7. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/98d3af20ae4c6f5614dfc00c010968b4849d34c2)
-8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b24af22fc8596f0c8165b6c835a5d11127a0518d)
-9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/93fa2da1dbffddd1eaecdf25fb6e9678afe73bed)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/581c65d04a484043ca94daf06fcce01cdb63d050)
+5. 📝 Committed to a private repo
+6. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b8085379f5d4a8c13294d0e65188fe4227e7c391)
+7. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/65d9dbe3bbbe2379abc3cf2ce2fc1ef6e4c312df)
+8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/98d3af20ae4c6f5614dfc00c010968b4849d34c2)
+9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b24af22fc8596f0c8165b6c835a5d11127a0518d)
+10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/93fa2da1dbffddd1eaecdf25fb6e9678afe73bed)
 <!--END_SECTION:activity-->
 
 ---
