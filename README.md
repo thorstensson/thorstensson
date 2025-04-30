@@ -45,15 +45,15 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. ➕ Created a new branch `member-milestone-thomas` in a private repo
-3. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. ➕ Created a new branch `member-milestone-thomas` in a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b8085379f5d4a8c13294d0e65188fe4227e7c391)
-9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/65d9dbe3bbbe2379abc3cf2ce2fc1ef6e4c312df)
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/98d3af20ae4c6f5614dfc00c010968b4849d34c2)
+8. 📝 Committed to a private repo
+9. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b8085379f5d4a8c13294d0e65188fe4227e7c391)
+10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/65d9dbe3bbbe2379abc3cf2ce2fc1ef6e4c312df)
 <!--END_SECTION:activity-->
 
 ---
