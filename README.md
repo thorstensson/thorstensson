@@ -44,16 +44,16 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `feature-fixes` in a private repo
-2. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch `feature-fixes` in a private repo
 3. 📝 Committed to a private repo
-4. ➕ Created a new branch `member-milestone-thomas` in a private repo
-5. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. ➕ Created a new branch `member-milestone-thomas` in a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. 📝 Committed to [thorstensson/landing-page-nuxt-three](https://github.com/thorstensson/landing-page-nuxt-three/commit/b8085379f5d4a8c13294d0e65188fe4227e7c391)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
