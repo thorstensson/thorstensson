@@ -51,7 +51,6 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
