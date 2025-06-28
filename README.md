@@ -45,7 +45,6 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
