@@ -44,7 +44,7 @@ I’m a Swedish Front end developer with an interest in code that creates great 
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/301c68b12097062ffa712ab2cf63acac6e82a4f3)
 <!--END_SECTION:activity-->
 
 ---
