@@ -9,7 +9,7 @@ Swedish developer. Consider me a friendly and honest coffee addict. I like to ex
 🔭 I’m currently working on ... 
 - My next Portfolio (Nuxt).
 - Updates and iterations to my repos.
-- Improving with Svelte.<img alt='SSR' src='https://img.shields.io/badge/SSR-blue.svg?style=for-the-badge&logo=&logoColor' />
+- Improving with Svelte.
 
 ---
 ### :zap: Recent Actions
