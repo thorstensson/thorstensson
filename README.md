@@ -1,31 +1,4 @@
-<img alt='Vue' src='https://img.shields.io/badge/Vue-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Nuxt' src='https://img.shields.io/badge/Nuxt-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Svelte Kit' src='https://img.shields.io/badge/Svelte Kit-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Pinia' src='https://img.shields.io/badge/Pinia-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='ES6' src='https://img.shields.io/badge/ES6-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Vite' src='https://img.shields.io/badge/Vite-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='ESLint' src='https://img.shields.io/badge/ESLint-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Cypress' src='https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Netlify' src='https://img.shields.io/badge/Netlify-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Vercel' src='https://img.shields.io/badge/Vercel-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='SCSS' src='https://img.shields.io/badge/SCSS-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='BEM' src='https://img.shields.io/badge/BEM-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='TailwindCSS' src='https://img.shields.io/badge/TailwindCSS-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='GraphQL' src='https://img.shields.io/badge/GraphQL-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Axios' src='https://img.shields.io/badge/Axios-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Hygraph' src='https://img.shields.io/badge/Hygraph-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Supabase' src='https://img.shields.io/badge/Supabase-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Trigonometry' src='https://img.shields.io/badge/Trigonometry-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='GSAP' src='https://img.shields.io/badge/GSAP-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='PixiJS' src='https://img.shields.io/badge/PixiJS-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='P5JS' src='https://img.shields.io/badge/P5JS-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='ThreeJS' src='https://img.shields.io/badge/ThreeJS-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Figma' src='https://img.shields.io/badge/Figma-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Adobe XD' src='https://img.shields.io/badge/Adobe XD-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Photoshop' src='https://img.shields.io/badge/Photoshop-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Canva' src='https://img.shields.io/badge/Canva-green.svg?style=for-the-badge&logo=&logoColor' />
-<img alt='Lightroom' src='https://img.shields.io/badge/Lightroom-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Vue' src='https://img.shields.io/badge/Vue-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Nuxt' src='https://img.shields.io/badge/Nuxt-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Svelte Kit' src='https://img.shields.io/badge/Svelte Kit-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Pinia' src='https://img.shields.io/badge/Pinia-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ES6' src='https://img.shields.io/badge/ES6-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Vite' src='https://img.shields.io/badge/Vite-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ESLint' src='https://img.shields.io/badge/ESLint-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Cypress' src='https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Netlify' src='https://img.shields.io/badge/Netlify-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Vercel' src='https://img.shields.io/badge/Vercel-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='SCSS' src='https://img.shields.io/badge/SCSS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='BEM' src='https://img.shields.io/badge/BEM-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='TailwindCSS' src='https://img.shields.io/badge/TailwindCSS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='GraphQL' src='https://img.shields.io/badge/GraphQL-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Axios' src='https://img.shields.io/badge/Axios-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Hygraph' src='https://img.shields.io/badge/Hygraph-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Supabase' src='https://img.shields.io/badge/Supabase-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Trigonometry' src='https://img.shields.io/badge/Trigonometry-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='GSAP' src='https://img.shields.io/badge/GSAP-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='PixiJS' src='https://img.shields.io/badge/PixiJS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='P5JS' src='https://img.shields.io/badge/P5JS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ThreeJS' src='https://img.shields.io/badge/ThreeJS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Figma' src='https://img.shields.io/badge/Figma-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Adobe XD' src='https://img.shields.io/badge/Adobe XD-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Photoshop' src='https://img.shields.io/badge/Photoshop-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Canva' src='https://img.shields.io/badge/Canva-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Lightroom' src='https://img.shields.io/badge/Lightroom-green.svg?style=for-the-badge&logo=&logoColor' />
 
 ---
 ### About
