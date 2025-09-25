@@ -15,12 +15,16 @@ Creative developer. Consider me a friendly and honest coffee addict. I like to e
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/fac8d577c72eb01b99486a1fb3f3820fc58babee)
-2. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/ab25df0ebd8c5ce4f0f169e3b66a3088a26cce33)
-3. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/06deeba8293d867254c6df2c319039d68b84ecb8)
-4. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/33fc2d018bc490169365ebd5bf144b70c6f1fc86)
-5. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/abe44c95310f868ad790cd8b7886b1e12328325e)
-6. 📝 Committed to [thorstensson/audio-player-portfolio-vue-ts](https://github.com/thorstensson/audio-player-portfolio-vue-ts/commit/301c68b12097062ffa712ab2cf63acac6e82a4f3)
+1. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/598093f508bcbfdfd0e5c0792a1dc89b056b2f8e)
+2. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/cdf3c4ba26fcb5385ebae841de09c34a6e640a76)
+3. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/110c69b4f393bdef36684ec8685a385b43687d9f)
+4. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/626241520603974a0e435e27d5c90a16cd799839)
+5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/7131ce1cc0b420e474929dffcef0bf1ab7cc89cd)
+6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/de45f6698ddc0bfa27a626e1c5907045e90ad43e)
+7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/2f26d7f67a1ae0c033b63a74009c4cb7c242a9f2)
+8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/b6a0df3b5b711124210cbcd6828c4aff3f0e09e3)
+9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/61e028379472120d3e69e2286b8e0abb1b086299)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/daaf5d5af3157fabc52054411110d5d7b600dbc8)
 <!--END_SECTION:activity-->
 
 ---
