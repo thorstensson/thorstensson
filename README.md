@@ -1,45 +1,42 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=thorstensson" alt="visitor badge"/></p>
+<img alt='Vue' src='https://img.shields.io/badge/Vue-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Nuxt' src='https://img.shields.io/badge/Nuxt-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Svelte Kit' src='https://img.shields.io/badge/Svelte Kit-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Pinia' src='https://img.shields.io/badge/Pinia-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='ES6' src='https://img.shields.io/badge/ES6-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Vite' src='https://img.shields.io/badge/Vite-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='ESLint' src='https://img.shields.io/badge/ESLint-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Cypress' src='https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Netlify' src='https://img.shields.io/badge/Netlify-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Vercel' src='https://img.shields.io/badge/Vercel-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='SCSS' src='https://img.shields.io/badge/SCSS-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='BEM' src='https://img.shields.io/badge/BEM-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='TailwindCSS' src='https://img.shields.io/badge/TailwindCSS-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='GraphQL' src='https://img.shields.io/badge/GraphQL-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Axios' src='https://img.shields.io/badge/Axios-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Hygraph' src='https://img.shields.io/badge/Hygraph-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Supabase' src='https://img.shields.io/badge/Supabase-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Trigonometry' src='https://img.shields.io/badge/Trigonometry-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='GSAP' src='https://img.shields.io/badge/GSAP-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='PixiJS' src='https://img.shields.io/badge/PixiJS-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='P5JS' src='https://img.shields.io/badge/P5JS-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='ThreeJS' src='https://img.shields.io/badge/ThreeJS-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Figma' src='https://img.shields.io/badge/Figma-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Adobe XD' src='https://img.shields.io/badge/Adobe XD-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Photoshop' src='https://img.shields.io/badge/Photoshop-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Canva' src='https://img.shields.io/badge/Canva-green.svg?style=for-the-badge&logo=&logoColor' />
+<img alt='Lightroom' src='https://img.shields.io/badge/Lightroom-green.svg?style=for-the-badge&logo=&logoColor' />
 
-![Thomas Thorstensson](https://github.com/user-attachments/assets/ac4417b0-aae0-422a-b866-3b8120c2d6ff)
-
-![Vue](https://img.shields.io/badge/NUXT-fffff?style=for-the-badge&color=000000)
-![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&color=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&color=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&color=000000)
-![ESLint](https://img.shields.io/badge/ESLint-ffffff?style=for-the-badge&color=000000)
-![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&color=000000)
-![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&color=000000)
-![Netlify](https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&color=000000)
-![WebPack](https://img.shields.io/badge/WebPack-ffffff?style=for-the-badge&color=000000)
-![Axios](https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&color=000000)
-![GraphQL](https://img.shields.io/badge/GraphQL-ffffff?style=for-the-badge&color=000000)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-ffffff?style=for-the-badge&color=000000)
-![Hygraph](https://img.shields.io/badge/Hygraph-ffffff?style=for-the-badge&color=000000)
-![AirTable](https://img.shields.io/badge/AirTable-ffffff?style=for-the-badge&color=000000)
-![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&color=000000)
-![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
-![Flexbox](https://img.shields.io/badge/Flexbox-ffffff?style=for-the-badge&color=000000)
-![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&color=000000)
-![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&color=000000)
-![NuxtUI](https://img.shields.io/badge/NuxtUI-ffffff?style=for-the-badge&color=000000)
-![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&color=000000)
-![HeroIcons](https://img.shields.io/badge/HeroIcons-ffffff?style=for-the-badge&color=000000)
-![GSAP](https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&color=000000)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-ffffff?style=for-the-badge&color=000000)
-![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&color=000000)
-![WordPress](https://img.shields.io/badge/WordPress-ffffff?style=for-the-badge&color=000000)
-![CORS/CSP](https://img.shields.io/badge/CORS/CSP-ffffff?style=for-the-badge&color=000000)
 ---
 ### About
-I’m a Swedish Front end developer with an interest in code that creates great user experiences, whether coding named views in Vue router, loading low poly 3D models, of finding the best approach to asynchronous API calls. Consider me equally fascinated by GraphQL, Web Audio API, and much more. I've worked on projects involving e-Learning, 2D games, landing pages, sites—and worked hard in startups, because you have to. Since my move to Barcelona, and since having found a partner here, I realise I want to leave freelancing behind and embark on a permanent position. Feel free to get in touch.
+Swedish developer. Consider me a friendly and honest coffee addict. I like to express content through interaction. I love diving headfirst into APIs, UI/UX, and microinteractions—multidisciplinary. Prefer working in smaller teams. Plan to move to the green hills of Barcelona.
 
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
 - My next Portfolio (Nuxt).
 - Updates and iterations to my repos.
-- My ThreeJS learning curve.
+- Improving with Svelte.
 
 ---
 ### :zap: Recent Actions
