@@ -15,16 +15,16 @@ Creative developer. Consider me a friendly and honest coffee addict. I like to e
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#11](https://github.com/thorstensson/thorstensson/issues/11) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
-2. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/587e6fc6b7e40becc7d290e7372014d8fd7cdbfb)
-3. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/b2f4fcf2b5467166b3b96435e360466d83d79dda)
-4. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/97e48057e5ca0dbf02563f650e6a959b12a84278)
-5. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/e050567f017e6e9bd95afd49abbc6eaa605ccabb)
-6. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/5afba7830ea51b2a92c14f0d913f2fd8eb16055f)
-7. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/c27e09ba8da428cb62cc4f4a5b0de6401819d6fb)
-8. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d46adb209fc7edc706d079cc714883d186a3c281)
-9. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/796458cfb5d8ce00bcf4d70af80e2292db9e9776)
-10. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/24a2bc638bdc5708997098f7fc93df7b22b6153b)
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/313a91d6fa8109a8ad42c74d1853facf3af359c4)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/eac8929c779d84bb5d57432789d61eae91144b1b)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b86aca7a56ffcf7d3e496650334f431625f3babf)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f6adf9eda84e083fa27ab74e67e8b47a2a67d870)
+5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/51afa7e0732cf4c9295649f0c2332c493bb7d226)
+6. 🆕 Opened an issue [#11](https://github.com/thorstensson/thorstensson/issues/11) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+7. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/587e6fc6b7e40becc7d290e7372014d8fd7cdbfb)
+8. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/b2f4fcf2b5467166b3b96435e360466d83d79dda)
+9. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/97e48057e5ca0dbf02563f650e6a959b12a84278)
+10. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/e050567f017e6e9bd95afd49abbc6eaa605ccabb)
 <!--END_SECTION:activity-->
 
 ---
