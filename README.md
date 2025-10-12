@@ -15,16 +15,16 @@ Creative developer. Consider me a friendly and honest coffee addict. I like to e
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/587e6fc6b7e40becc7d290e7372014d8fd7cdbfb)
-2. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/b2f4fcf2b5467166b3b96435e360466d83d79dda)
-3. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/97e48057e5ca0dbf02563f650e6a959b12a84278)
-4. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/e050567f017e6e9bd95afd49abbc6eaa605ccabb)
-5. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/5afba7830ea51b2a92c14f0d913f2fd8eb16055f)
-6. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/c27e09ba8da428cb62cc4f4a5b0de6401819d6fb)
-7. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d46adb209fc7edc706d079cc714883d186a3c281)
-8. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/796458cfb5d8ce00bcf4d70af80e2292db9e9776)
-9. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/24a2bc638bdc5708997098f7fc93df7b22b6153b)
-10. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/cf056d636f6a1614beba6dad976aff29c1d3601b)
+1. 🆕 Opened an issue [#11](https://github.com/thorstensson/thorstensson/issues/11) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+2. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/587e6fc6b7e40becc7d290e7372014d8fd7cdbfb)
+3. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/b2f4fcf2b5467166b3b96435e360466d83d79dda)
+4. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/97e48057e5ca0dbf02563f650e6a959b12a84278)
+5. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/e050567f017e6e9bd95afd49abbc6eaa605ccabb)
+6. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/5afba7830ea51b2a92c14f0d913f2fd8eb16055f)
+7. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/c27e09ba8da428cb62cc4f4a5b0de6401819d6fb)
+8. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d46adb209fc7edc706d079cc714883d186a3c281)
+9. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/796458cfb5d8ce00bcf4d70af80e2292db9e9776)
+10. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/24a2bc638bdc5708997098f7fc93df7b22b6153b)
 <!--END_SECTION:activity-->
 
 ---
