@@ -2,7 +2,7 @@
 
 ---
 ### About
-Creative developer. Consider me a friendly and honest coffee addict. I like to express content through interaction. I love diving headfirst into APIs, UI/UX, and microinteractions—multidisciplinary. Prefer working in smaller teams. Plan to move to the green hills of Barcelona or some peaceful elsewhere out of town.
+Creative developer. Consider me a friendly and honest coffee addict. I like to express content through interaction. I love diving headfirst into APIs, UI/UX, and microinteractions—multidisciplinary. Prefer working in smaller teams. Plan to move to the green hills of Barcelona or some peaceful little pueblo here in Catalonia.
 🐧
 
 ---
