@@ -8,9 +8,9 @@ Creative developer. Consider me a friendly and honest coffee addict. I like to e
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
-- My next Portfolio (Nuxt).
-- Updates and iterations to my repos.
 - Improving with Svelte.
+- Improving with Trigonometry.
+- Spanish.
 
 ---
 ### :zap: Recent Actions
