@@ -15,16 +15,16 @@ Creative developer. Consider me a friendly and honest coffee addict. I like to e
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/7597a7a5c865bac2af24943887699129bca29f46)
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/48c54d2b4a59dc7817b45221ac01d0b19e1c84ee)
-3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/5b9959616035c87f07ee7e24814a9adad167523d)
-4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/7f2954d1aa5e1a718f73f84a8e293e9379614837)
-5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2a749d28f52de03613d734733663fbb0a9a5919f)
-6. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/eb196f71cdc844b718d8d5d4a020cfb4654473a6)
-7. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/63163da8da71a3241830797693bb8e4c8ad9c359)
-8. 📝 Committed to [thorstensson/landing-page-2025](https://github.com/thorstensson/landing-page-2025/commit/8691d7fd98769d096f8fc3e54107fb53e2f11304)
-9. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/d39e591d21634645147f21acf0aa0457b03c992c)
-10. 📝 Committed to [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/03f317192015872e1862b8ae0418005e352fcb0c)
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/bb65d9d3ec31578f5d2448a334a39d459776d1ac)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/26d7042b6793a20a526a015317fe8b759bb6baac)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/5e9b3aa1288bbf92f365a7062760763964f9fb2a)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/7c968383515404e24b6987c3732c9a4bda7d61d7)
+5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/475e5f217efdefb2b244339e0c380c4d6da09112)
+6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/7597a7a5c865bac2af24943887699129bca29f46)
+7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/48c54d2b4a59dc7817b45221ac01d0b19e1c84ee)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/5b9959616035c87f07ee7e24814a9adad167523d)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/7f2954d1aa5e1a718f73f84a8e293e9379614837)
+10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2a749d28f52de03613d734733663fbb0a9a5919f)
 <!--END_SECTION:activity-->
 
 ---
