@@ -2,7 +2,7 @@
 
 ---
 ### About
-Creative developer. Consider me a friendly and honest coffee addict. I like to express content through interaction. To dive headfirst into APIs, UI/UX, and microinteractions. Multidisciplinary. 
+Swedish/Tanzanian frontend developer who's collaborated with agencies across Europe for two decades. Multidisciplinary. Framework agnostic, but I love the developer experience in Nuxt, Vue, and Svelte. To dig in API's WebGL, or odd libraries. Looking for a permanent remote role within a friendly agency. Bonus points if you have Spanish classes.
 🐧
 
 ---
