@@ -15,16 +15,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/47e7462369c90a0116f964d2b26e744e57ebd3cf)
-2. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/77710d831199a3e07d3842ff638e28faeb677feb)
-3. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/64e4ae83911ecf186b056f10a6f66e16f834d4b4)
-4. 📝 Committed to [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/20dbb2c6be064bb1c548b79daf48baa4acf80637)
-5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d088c7e620fe5ce287ed35df1a26375ecc577abf)
-6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/351404388c7cc0f5ba35ac52c4feb8a24d471522)
-7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a5e76a2371316118c35a064c83df0bc3d9037666)
-8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/b112a76fecfbbfc7f2a291166c43416e7d945905)
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0cf1197995a0ca8b61b2e2c248a1078686da542e)
-10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b0ec4edc7183ad7935d5e387631585d5028fc87e)
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/ad7eb036298e906bdfc727712b5b026be56368e7)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e20d6710dc96a7d14e13a469b1a7c95de99f7dde)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c9df2864feb0118d0e7c66453a377ed6c8dc0e8a)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/47e7462369c90a0116f964d2b26e744e57ebd3cf)
+5. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/77710d831199a3e07d3842ff638e28faeb677feb)
+6. 📝 Committed to [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/64e4ae83911ecf186b056f10a6f66e16f834d4b4)
+7. 📝 Committed to [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/20dbb2c6be064bb1c548b79daf48baa4acf80637)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d088c7e620fe5ce287ed35df1a26375ecc577abf)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/351404388c7cc0f5ba35ac52c4feb8a24d471522)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a5e76a2371316118c35a064c83df0bc3d9037666)
 <!--END_SECTION:activity-->
 
 ---
