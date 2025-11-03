@@ -15,16 +15,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d30ee609cd7090dde4a1ee6d4d716c9b909f0ae1)
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0dae979a42ff37f48fd7dc9bc4f09a6080d0035d)
-3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8935d091a41b312bfbc65668036727df7118b9ed)
-4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2a97c32e380ddd510013bc7a5a6fe89e9bb09810)
-5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/36d670e130af7539690b9db63ecc72e2bf1d129d)
-6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c4eea666986717cd94432d9d552e4ed9f3286571)
-7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d6cc9b419dfceb0113113dc81b726e5bb9c5d88b)
-8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6731c22e7f9a9dfafaa444c626678229eaf98375)
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/08e6f26c48baefcbf6a7257c9c6bc0cd96c41b74)
-10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/40bfe7ff75be3dff0ddd0793b1c0a4e0104d94bb)
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/271e8e39bd927138e56330a7fdff792752622f0b)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d30ee609cd7090dde4a1ee6d4d716c9b909f0ae1)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0dae979a42ff37f48fd7dc9bc4f09a6080d0035d)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8935d091a41b312bfbc65668036727df7118b9ed)
+5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2a97c32e380ddd510013bc7a5a6fe89e9bb09810)
+6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/36d670e130af7539690b9db63ecc72e2bf1d129d)
+7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c4eea666986717cd94432d9d552e4ed9f3286571)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d6cc9b419dfceb0113113dc81b726e5bb9c5d88b)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6731c22e7f9a9dfafaa444c626678229eaf98375)
+10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/08e6f26c48baefcbf6a7257c9c6bc0cd96c41b74)
 <!--END_SECTION:activity-->
 
 ---
