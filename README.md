@@ -20,7 +20,7 @@
 ![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&color=000000)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&color=000000)
-![HeadlessUI](https://img.shields.io/badge/NuxtUI-ffffff?style=for-the-badge&color=000000)
+![HeadlessUI](https://img.shields.io/badge/HeadlessUI-ffffff?style=for-the-badge&color=000000)
 ![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&color=000000)
 ![HeroIcons](https://img.shields.io/badge/HeroIcons-ffffff?style=for-the-badge&color=000000)
 ![GSAP](https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&color=000000)
