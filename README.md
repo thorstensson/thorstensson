@@ -1,4 +1,33 @@
-<img alt='Vue' src='https://img.shields.io/badge/Vue-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Nuxt' src='https://img.shields.io/badge/Nuxt-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Svelte Kit' src='https://img.shields.io/badge/Svelte Kit-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='SSR' src='https://img.shields.io/badge/SSR-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Pinia' src='https://img.shields.io/badge/Pinia-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ES6' src='https://img.shields.io/badge/ES6-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Vite' src='https://img.shields.io/badge/Vite-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ESLint' src='https://img.shields.io/badge/ESLint-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Cypress' src='https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='GitHub Actions' src='https://img.shields.io/badge/GitHub Actions-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Netlify' src='https://img.shields.io/badge/Netlify-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Vercel' src='https://img.shields.io/badge/Vercel-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='SCSS' src='https://img.shields.io/badge/SCSS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='BEM' src='https://img.shields.io/badge/BEM-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='TailwindCSS' src='https://img.shields.io/badge/TailwindCSS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='GraphQL' src='https://img.shields.io/badge/GraphQL-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Axios' src='https://img.shields.io/badge/Axios-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Hygraph' src='https://img.shields.io/badge/Hygraph-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Supabase' src='https://img.shields.io/badge/Supabase-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='RESTful APIs' src='https://img.shields.io/badge/RESTful APIs-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Trigonometry' src='https://img.shields.io/badge/Trigonometry-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='GSAP' src='https://img.shields.io/badge/GSAP-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='PixiJS' src='https://img.shields.io/badge/PixiJS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='P5JS' src='https://img.shields.io/badge/P5JS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='ThreeJS' src='https://img.shields.io/badge/ThreeJS-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Figma' src='https://img.shields.io/badge/Figma-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Adobe XD' src='https://img.shields.io/badge/Adobe XD-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Photoshop' src='https://img.shields.io/badge/Photoshop-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Canva' src='https://img.shields.io/badge/Canva-green.svg?style=for-the-badge&logo=&logoColor' /> <img alt='Lightroom' src='https://img.shields.io/badge/Lightroom-green.svg?style=for-the-badge&logo=&logoColor' />
+![Vue](https://img.shields.io/badge/NUXT-fffff?style=for-the-badge&color=000000)
+![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&color=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&color=000000)
+![ESLint](https://img.shields.io/badge/ESLint-ffffff?style=for-the-badge&color=000000)
+![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&color=000000)
+![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&color=000000)
+![Netlify](https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&color=000000)
+![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&color=000000)
+![Pinia](https://img.shields.io/badge/Pinia-ffffff?style=for-the-badge&color=000000)
+![WebPack](https://img.shields.io/badge/WebPack-ffffff?style=for-the-badge&color=000000)
+![Axios](https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&color=000000)
+![GraphQL](https://img.shields.io/badge/GraphQL-ffffff?style=for-the-badge&color=000000)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-ffffff?style=for-the-badge&color=000000)
+![Hygraph](https://img.shields.io/badge/Hygraph-242124?style=for-the-badge&color=000000)
+![DatoCMS](https://img.shields.io/badge/DatoCMS-242124?style=for-the-badge&color=000000)
+![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&color=000000)
+![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
+![Flexbox](https://img.shields.io/badge/Flexbox-ffffff?style=for-the-badge&color=000000)
+![BEM](https://img.shields.io/badge/BEM-ffffff?style=for-the-badge&color=000000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&color=000000)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&color=000000)
+![HeadlessUI](https://img.shields.io/badge/NuxtUI-ffffff?style=for-the-badge&color=000000)
+![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&color=000000)
+![HeroIcons](https://img.shields.io/badge/HeroIcons-ffffff?style=for-the-badge&color=000000)
+![GSAP](https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&color=000000)
+![ThreeJS](https://img.shields.io/badge/ThreeJS-ffffff?style=for-the-badge&color=000000)
+![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&color=000000)
+![WordPress](https://img.shields.io/badge/WordPress-ffffff?style=for-the-badge&color=000000)
+![CORS/CSP](https://img.shields.io/badge/CORS/CSP-ffffff?style=for-the-badge&color=000000)
 
 ---
 ### About
@@ -8,6 +37,7 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
+- Some new microprojects coming here.
 - Improving with Svelte.
 - Improving with Trigonometry.
 - Spanish.
