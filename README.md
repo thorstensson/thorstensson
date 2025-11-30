@@ -46,14 +46,14 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f537e5bdec47577cf84b30b5068446932d6aadff)
+2. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f0283a9d5b256aa65f7bffea92a33d65fd744a2a)
+3. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/e12472ebe2557cce06b2474da7140d82bd3f2dc0)
 4. 📝 Committed to a private repo
-5. 🆕 Opened an issue [#12](https://github.com/thorstensson/thorstensson/issues/12) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
+8. 🆕 Opened an issue [#12](https://github.com/thorstensson/thorstensson/issues/12) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
