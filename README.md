@@ -19,12 +19,12 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+5. 🆕 Opened an issue [#12](https://github.com/thorstensson/thorstensson/issues/12) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 🎉 Created a new branch `main` in a private repo
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/4852767f9a1a11a4e095d003250024d635c17fdc)
-10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/95cc8aa8987c3bf1f836124f3d4738fdb3e96bb3)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
