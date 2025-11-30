@@ -24,10 +24,11 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&color=000000)
 ![HeroIcons](https://img.shields.io/badge/HeroIcons-ffffff?style=for-the-badge&color=000000)
 ![GSAP](https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&color=000000)
+![PixiJS](https://img.shields.io/badge/Pixi-ffffff?style=for-the-badge&color=000000)
+![P5JS](https://img.shields.io/badge/P5JS-ffffff?style=for-the-badge&color=000000)
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-ffffff?style=for-the-badge&color=000000)
-![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&color=000000)
-![WordPress](https://img.shields.io/badge/WordPress-ffffff?style=for-the-badge&color=000000)
-![CORS/CSP](https://img.shields.io/badge/CORS/CSP-ffffff?style=for-the-badge&color=000000)
+![Jest](https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&color=000000)
+
 
 ---
 ### About
