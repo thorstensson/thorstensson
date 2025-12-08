@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e81a6f5abeefe69fbe34c9a2d509e659e3488614)
-3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b09cd119fb016fc0113dc4e3b17c1fc133abf378)
-4. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f537e5bdec47577cf84b30b5068446932d6aadff)
-5. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f0283a9d5b256aa65f7bffea92a33d65fd744a2a)
-6. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/e12472ebe2557cce06b2474da7140d82bd3f2dc0)
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/da7a0331cfa242cc0a2fd18bff8ac77c4c2ce78e)
+2. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/642fa32db192460ddf098a8e3b85a051c4d82ebb)
+3. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/858609f7133a0344b7041e4ad9f248491266f0d2)
+4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/2eab413c20f35fe2539a6268e4cf3ac461568218)
+5. 🎉 Created a new branch [`main`](https://github.com/thorstensson/tictactoe/tree/main) in [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe)
+6. 📝 Committed to a private repo
+7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e81a6f5abeefe69fbe34c9a2d509e659e3488614)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b09cd119fb016fc0113dc4e3b17c1fc133abf378)
+9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f537e5bdec47577cf84b30b5068446932d6aadff)
+10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f0283a9d5b256aa65f7bffea92a33d65fd744a2a)
 <!--END_SECTION:activity-->
 
 ---
