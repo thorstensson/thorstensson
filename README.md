@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/da7a0331cfa242cc0a2fd18bff8ac77c4c2ce78e)
-2. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/642fa32db192460ddf098a8e3b85a051c4d82ebb)
-3. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/858609f7133a0344b7041e4ad9f248491266f0d2)
-4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/2eab413c20f35fe2539a6268e4cf3ac461568218)
-5. 🎉 Created a new branch [`main`](https://github.com/thorstensson/tictactoe/tree/main) in [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe)
-6. 📝 Committed to a private repo
-7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e81a6f5abeefe69fbe34c9a2d509e659e3488614)
-8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b09cd119fb016fc0113dc4e3b17c1fc133abf378)
-9. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f537e5bdec47577cf84b30b5068446932d6aadff)
-10. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f0283a9d5b256aa65f7bffea92a33d65fd744a2a)
+1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/c3a92014014e0a70f8d47537b9c40e6e9d5733e7)
+2. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/863a3a086c305892d1175a73063c5b6cbbd9a626)
+3. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/82ec22f5cedd0d35735bc52fa4d85d917dea7ae4)
+4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9bfea8b97cd8a002b9996855493441a0c1a551f0)
+5. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/da7a0331cfa242cc0a2fd18bff8ac77c4c2ce78e)
+6. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/642fa32db192460ddf098a8e3b85a051c4d82ebb)
+7. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/858609f7133a0344b7041e4ad9f248491266f0d2)
+8. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/2eab413c20f35fe2539a6268e4cf3ac461568218)
+9. 🎉 Created a new branch [`main`](https://github.com/thorstensson/tictactoe/tree/main) in [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
