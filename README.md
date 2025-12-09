@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8f9345678858384005a89b9785f1fcac3915a617)
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/53328f6c54bc21a0ce2bdcdf9a7faf4bbc6536b2)
-3. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/5be81ed66f338cb452103b0b19aeb480dd54e36f)
-4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/12ef4f54dbc00f10a92ab2026d7acebdac0fdd19)
-5. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/b2cbe1ecc01c290ec960ae863469e3f7450022ec)
-6. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/c3a92014014e0a70f8d47537b9c40e6e9d5733e7)
-7. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/863a3a086c305892d1175a73063c5b6cbbd9a626)
-8. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/82ec22f5cedd0d35735bc52fa4d85d917dea7ae4)
-9. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9bfea8b97cd8a002b9996855493441a0c1a551f0)
-10. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/da7a0331cfa242cc0a2fd18bff8ac77c4c2ce78e)
+1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9141157748e25d050c1c854b310228f08bc2630b)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8f9345678858384005a89b9785f1fcac3915a617)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/53328f6c54bc21a0ce2bdcdf9a7faf4bbc6536b2)
+4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/5be81ed66f338cb452103b0b19aeb480dd54e36f)
+5. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/12ef4f54dbc00f10a92ab2026d7acebdac0fdd19)
+6. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/b2cbe1ecc01c290ec960ae863469e3f7450022ec)
+7. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/c3a92014014e0a70f8d47537b9c40e6e9d5733e7)
+8. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/863a3a086c305892d1175a73063c5b6cbbd9a626)
+9. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/82ec22f5cedd0d35735bc52fa4d85d917dea7ae4)
+10. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9bfea8b97cd8a002b9996855493441a0c1a551f0)
 <!--END_SECTION:activity-->
 
 ---
