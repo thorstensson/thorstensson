@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/80115ca20ed963122558723c6feb282397fc44cf)
-2. 📝 Committed to [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/16efe2f2a9a3079b1f114fe477e8eadac7325377)
-3. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/5dd931aa89aa69d4dda06200c219209ce79f89f8)
-4. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9141157748e25d050c1c854b310228f08bc2630b)
-5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8f9345678858384005a89b9785f1fcac3915a617)
-6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/53328f6c54bc21a0ce2bdcdf9a7faf4bbc6536b2)
-7. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/5be81ed66f338cb452103b0b19aeb480dd54e36f)
-8. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/12ef4f54dbc00f10a92ab2026d7acebdac0fdd19)
-9. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/b2cbe1ecc01c290ec960ae863469e3f7450022ec)
-10. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/c3a92014014e0a70f8d47537b9c40e6e9d5733e7)
+1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/5c7b5d4295a97bd820905d2803668932a9167726)
+2. 🆕 Opened an issue [#13](https://github.com/thorstensson/thorstensson/issues/13) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+3. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/80115ca20ed963122558723c6feb282397fc44cf)
+4. 📝 Committed to [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/16efe2f2a9a3079b1f114fe477e8eadac7325377)
+5. 📝 Committed to [thorstensson/mp3visualizer](https://github.com/thorstensson/mp3visualizer/commit/5dd931aa89aa69d4dda06200c219209ce79f89f8)
+6. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/9141157748e25d050c1c854b310228f08bc2630b)
+7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8f9345678858384005a89b9785f1fcac3915a617)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/53328f6c54bc21a0ce2bdcdf9a7faf4bbc6536b2)
+9. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/5be81ed66f338cb452103b0b19aeb480dd54e36f)
+10. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/12ef4f54dbc00f10a92ab2026d7acebdac0fdd19)
 <!--END_SECTION:activity-->
 
 ---
