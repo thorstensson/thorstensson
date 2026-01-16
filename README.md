@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/aecd57db2243832c2cf317023d491e153071c7eb)
-2. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/c984e9d070e8181010a57f46b9cdea0c045ee859)
-3. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/bfa1ac72bef8967d0a2995f4634b96dd92178a20)
-4. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/d681cba07038f25d488387ba6182b9788cfada1e)
-5. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/0cda1a00516a1b0d7a99ed3e3596bc592c71d639)
-6. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/595b1c87cfe7c5313fe131242ceacbe6010882c7)
-7. 🎉 Created a new branch [`main`](https://github.com/thorstensson/cosmopix/tree/main) in [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix)
-8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/378afdf1f2e7d56ed491e3249273117bbb72807c)
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b565aecefaaec510c64e3603031c9759f54cc990)
-10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/1870a206a236f45cb986b155286efe8f4285d83f)
+1. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/4842d54f4a5a2ffe6b915fe6ecb673938f0179f9)
+2. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/aecd57db2243832c2cf317023d491e153071c7eb)
+3. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/c984e9d070e8181010a57f46b9cdea0c045ee859)
+4. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/bfa1ac72bef8967d0a2995f4634b96dd92178a20)
+5. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/d681cba07038f25d488387ba6182b9788cfada1e)
+6. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/0cda1a00516a1b0d7a99ed3e3596bc592c71d639)
+7. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/595b1c87cfe7c5313fe131242ceacbe6010882c7)
+8. 🎉 Created a new branch [`main`](https://github.com/thorstensson/cosmopix/tree/main) in [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/378afdf1f2e7d56ed491e3249273117bbb72807c)
+10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b565aecefaaec510c64e3603031c9759f54cc990)
 <!--END_SECTION:activity-->
 
 ---
