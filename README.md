@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/5c4f502d7da8bd61ecdc7a2974d499c0f51d5e99)
-2. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/883d5a56e978a2cea777a656dd404b36ebf0129f)
-3. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/4842d54f4a5a2ffe6b915fe6ecb673938f0179f9)
-4. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/aecd57db2243832c2cf317023d491e153071c7eb)
-5. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/c984e9d070e8181010a57f46b9cdea0c045ee859)
-6. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/bfa1ac72bef8967d0a2995f4634b96dd92178a20)
-7. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/d681cba07038f25d488387ba6182b9788cfada1e)
-8. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/0cda1a00516a1b0d7a99ed3e3596bc592c71d639)
-9. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/595b1c87cfe7c5313fe131242ceacbe6010882c7)
-10. 🎉 Created a new branch [`main`](https://github.com/thorstensson/cosmopix/tree/main) in [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix)
+1. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/b1602b3f84b91625fd5148a19769df3f8864c251)
+2. 🆕 Opened an issue [#14](https://github.com/thorstensson/thorstensson/issues/14) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+3. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/942285dd1cf4ad05d74129af1915f68a0631d4d1)
+4. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/5c4f502d7da8bd61ecdc7a2974d499c0f51d5e99)
+5. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/883d5a56e978a2cea777a656dd404b36ebf0129f)
+6. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/4842d54f4a5a2ffe6b915fe6ecb673938f0179f9)
+7. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/aecd57db2243832c2cf317023d491e153071c7eb)
+8. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/c984e9d070e8181010a57f46b9cdea0c045ee859)
+9. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/bfa1ac72bef8967d0a2995f4634b96dd92178a20)
+10. 📝 Committed to [thorstensson/cosmopix](https://github.com/thorstensson/cosmopix/commit/d681cba07038f25d488387ba6182b9788cfada1e)
 <!--END_SECTION:activity-->
 
 ---
