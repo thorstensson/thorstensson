@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d8d1dbcb42404110fe61f8f660e5205cbd82f0fc)
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/23869c22cca56740efec6e928547b9d165ae182b)
-3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0cce3e7b93826234c102c5a354a7904736ebfe81)
-4. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/dbcf4dabe3aa0a1f831f69c097c70f6d53e0ccf6)
-5. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/cff8a0adf87efffb87bb99dbc4f09e4da44c7149)
-6. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/c01561ee1706adb06477695c9cbe53f717dd0a52)
-7. 🆕 Opened an issue [#15](https://github.com/thorstensson/thorstensson/issues/15) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
-8. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/8de41445fcb2a58b84f71a6c89dd94843b6a6260)
-9. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/f2cfce1b3e0999e628c2e2f930d748b27b6232ae)
-10. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/9d2f6dd002e19987d2e9cf55bec653ea14fa785f)
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c642db1c896d0f3290c93251ffb0445f409f0e12)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d8d1dbcb42404110fe61f8f660e5205cbd82f0fc)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/23869c22cca56740efec6e928547b9d165ae182b)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0cce3e7b93826234c102c5a354a7904736ebfe81)
+5. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/dbcf4dabe3aa0a1f831f69c097c70f6d53e0ccf6)
+6. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/cff8a0adf87efffb87bb99dbc4f09e4da44c7149)
+7. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/c01561ee1706adb06477695c9cbe53f717dd0a52)
+8. 🆕 Opened an issue [#15](https://github.com/thorstensson/thorstensson/issues/15) in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson)
+9. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/8de41445fcb2a58b84f71a6c89dd94843b6a6260)
+10. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/f2cfce1b3e0999e628c2e2f930d748b27b6232ae)
 <!--END_SECTION:activity-->
 
 ---
