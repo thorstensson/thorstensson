@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/7340c85762d063ec1b04d4c47c6a737d597972ba)
-2. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c2069a910191252b282d23e76259afd0e74f9f20)
+2. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/7340c85762d063ec1b04d4c47c6a737d597972ba)
 3. 📝 Committed to a private repo
-4. 🎉 Created a new branch `main` in a private repo
-5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c642db1c896d0f3290c93251ffb0445f409f0e12)
-6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d8d1dbcb42404110fe61f8f660e5205cbd82f0fc)
-7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/23869c22cca56740efec6e928547b9d165ae182b)
-8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0cce3e7b93826234c102c5a354a7904736ebfe81)
-9. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/dbcf4dabe3aa0a1f831f69c097c70f6d53e0ccf6)
-10. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/cff8a0adf87efffb87bb99dbc4f09e4da44c7149)
+4. 📝 Committed to a private repo
+5. 🎉 Created a new branch `main` in a private repo
+6. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c642db1c896d0f3290c93251ffb0445f409f0e12)
+7. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d8d1dbcb42404110fe61f8f660e5205cbd82f0fc)
+8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/23869c22cca56740efec6e928547b9d165ae182b)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/0cce3e7b93826234c102c5a354a7904736ebfe81)
+10. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/dbcf4dabe3aa0a1f831f69c097c70f6d53e0ccf6)
 <!--END_SECTION:activity-->
 
 ---
