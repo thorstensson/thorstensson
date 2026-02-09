@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/89b3a76a486cd4356fe71a2d4c5eb4d01a227f6a)
-2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/187cc9242352b206cadf5e1c39102e2a556d485e)
-3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/1dfd06fd83078a4bc781faacd923cd16d61e61c9)
-4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c2069a910191252b282d23e76259afd0e74f9f20)
-5. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/7340c85762d063ec1b04d4c47c6a737d597972ba)
-6. 📝 Committed to a private repo
+1. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/8a5cb541a7b047b6abfe64d9a1de92c986c762f5)
+2. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/89b3a76a486cd4356fe71a2d4c5eb4d01a227f6a)
+3. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/187cc9242352b206cadf5e1c39102e2a556d485e)
+4. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/1dfd06fd83078a4bc781faacd923cd16d61e61c9)
+5. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c2069a910191252b282d23e76259afd0e74f9f20)
+6. 📝 Committed to [thorstensson/tictactoe](https://github.com/thorstensson/tictactoe/commit/7340c85762d063ec1b04d4c47c6a737d597972ba)
 7. 📝 Committed to a private repo
-8. 🎉 Created a new branch `main` in a private repo
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c642db1c896d0f3290c93251ffb0445f409f0e12)
-10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d8d1dbcb42404110fe61f8f660e5205cbd82f0fc)
+8. 📝 Committed to a private repo
+9. 🎉 Created a new branch `main` in a private repo
+10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/c642db1c896d0f3290c93251ffb0445f409f0e12)
 <!--END_SECTION:activity-->
 
 ---
