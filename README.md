@@ -38,7 +38,7 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
-- Some new microprojects coming here.
+- A small component library based on Radix Vue, Turborepo & VueUse Motion :elephant:
 - Improving with Svelte.
 - Improving with Trigonometry.
 - Spanish.
