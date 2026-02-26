@@ -50,12 +50,12 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. 🎉 Created a new branch `thomas-branch` in a private repo
-6. undefined
-7. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/63d5e3bc1065d5ca229f4b95aebc06509eeb1c61)
-8. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a10f2be9755605d2be9aaad32b7fef0992849ee8)
-9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d0c545255b735660032208593d1c871ee3b736a8)
-10. 📝 Committed to [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/12d2063e406a9f50b1e0e7bdcdb43c6db8acfbb9)
+5. 📝 Committed to a private repo
+6. 🎉 Created a new branch `thomas-branch` in a private repo
+7. undefined
+8. 📝 Committed to [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/63d5e3bc1065d5ca229f4b95aebc06509eeb1c61)
+9. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a10f2be9755605d2be9aaad32b7fef0992849ee8)
+10. 📝 Committed to [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d0c545255b735660032208593d1c871ee3b736a8)
 <!--END_SECTION:activity-->
 
 ---
