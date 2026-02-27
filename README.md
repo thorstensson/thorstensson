@@ -54,8 +54,8 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. 🎉 Created a new branch `thomas-branch` in a private repo
-10. undefined
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
