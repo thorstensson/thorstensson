@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 📝 Committed to thomas-branch in a private repository
+2. 📝 Committed to thomas-branch in a private repository
+3. 📝 Committed to thomas-branch in a private repository
+4. 📝 Committed to thomas-branch in a private repository
+5. 📝 Committed to thomas-branch in a private repository
+6. 📝 Committed to thomas-branch in a private repository
+7. 📝 Committed to thomas-branch in a private repository
+8. 📝 Committed to thomas-branch in a private repository
+9. 📝 Committed to thomas-branch in a private repository
+10. 📝 Committed to thomas-branch in a private repository
 <!--END_SECTION:activity-->
 
 ---
