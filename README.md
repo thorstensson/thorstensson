@@ -46,7 +46,7 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to thomas-branch in a private repository
+1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f30027e14b826bb5b789644ca49007718d67e838)
 2. 📝 Committed to thomas-branch in a private repository
 3. 📝 Committed to thomas-branch in a private repository
 4. 📝 Committed to thomas-branch in a private repository
