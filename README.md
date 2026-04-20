@@ -46,16 +46,16 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [thorstensson/bitstreamed-images](https://github.com/thorstensson/bitstreamed-images/tree/main)
-2. 🎉 Created a new branch main in a private repository
-3. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/e5e4571cb4f8c5c56e49317a38dd97235e05e9b0)
-4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a1cf80b931e856da7083b1d9066839b36190d693)
-5. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/9b65bfb2fab64d98639983ba2e36d2512288bfb4)
-6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/caab1caaeb40592fb2ddb779b2af65ebdbdb35e5)
-7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/7856b5d9d49325d6b32187d3e5ce432a32df6a4a)
-8. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/3720049bf36b1b0a4ecdf0d335ed2ee8294abe0e)
-9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/96f06b505734cd3f12841e1e34663e01e1abb435)
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/5d83bc1da3e8ae48bf16725fcebc66b5d589820f)
+1. 📝 Committed to main in [thorstensson/bitstreamed-images](https://github.com/thorstensson/bitstreamed-images/commit/3052cb1596f5c1d54eda06f6798cd496a11dde12)
+2. 🎉 Created a new branch main in [thorstensson/bitstreamed-images](https://github.com/thorstensson/bitstreamed-images/tree/main)
+3. 🎉 Created a new branch main in a private repository
+4. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/e5e4571cb4f8c5c56e49317a38dd97235e05e9b0)
+5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a1cf80b931e856da7083b1d9066839b36190d693)
+6. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/9b65bfb2fab64d98639983ba2e36d2512288bfb4)
+7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/caab1caaeb40592fb2ddb779b2af65ebdbdb35e5)
+8. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/7856b5d9d49325d6b32187d3e5ce432a32df6a4a)
+9. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/3720049bf36b1b0a4ecdf0d335ed2ee8294abe0e)
+10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/96f06b505734cd3f12841e1e34663e01e1abb435)
 <!--END_SECTION:activity-->
 
 ---
