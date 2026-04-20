@@ -55,7 +55,6 @@ Swedish/Tanzanian frontend developer who's collaborated with agencies across Eur
 7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/3720049bf36b1b0a4ecdf0d335ed2ee8294abe0e)
 8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/96f06b505734cd3f12841e1e34663e01e1abb435)
 9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/5d83bc1da3e8ae48bf16725fcebc66b5d589820f)
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f30027e14b826bb5b789644ca49007718d67e838)
 <!--END_SECTION:activity-->
 
 ---
