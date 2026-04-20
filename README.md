@@ -32,7 +32,10 @@
 
 ---
 ### About
-Swedish/Tanzanian frontend developer who's collaborated with agencies across Europe for two decades. Multidisciplinary. Framework agnostic, but I love the developer experience in Nuxt, Vue, and Svelte. To dig in API's WebGL, or odd libraries. Looking for a permanent remote role within a friendly agency. Bonus points if you have Spanish classes.
+Creative Developer with two decades experience collaborating with startups and global agencies. Now seeking a stable, permanent role to commit to long-term in a friendly team. I specialize in the intersection of complex logic and high-end UI/UX.  Three.js/WebGL for interactive physics, and Nitro for server-side architecture. But my approach is framework-agnostic: JavaScript comes first. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hirearchy-minded, I like ambiguity and taking ownership of projects to nurture them to completion.
+
+Signed "El Tomaso".
+www.thomasthorstensson.com
 🐧
 
 ---
