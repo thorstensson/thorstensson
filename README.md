@@ -57,16 +57,16 @@ www.thomasthorstensson.com
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/0ccadb3eac2e6cf41d4b17dad47bf59f14c5ecec)
-2. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/84e5fc22ae0eac10f34fb4ad7fa04a598fc32d13)
-3. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/70c4f6c479c96551c7141db6144a5ecf7e869ec6)
-4. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/debb288d2483e903ea4e7728ae4edee2629c1e9a)
-5. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/82bca044d887561e1eebd22e3427cfc6622d57e4)
-6. 🎉 Created a new branch main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/tree/main)
-7. Added [EmiLearn/emilearn-platform](https://github.com/EmiLearn/emilearn-platform)
-8. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a6f6f22548162c60e246e5b281939b4ca18f8f7f)
-9. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/93784b9f085cdd822dbe5d6751c394d7c7da1820)
-10. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/05c35f5d9ebe254ad95b247be81807bbeb1f9ccf)
+1. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/70e2e97172815daa29b2258c4d84c1d150b235fa)
+2. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/0ccadb3eac2e6cf41d4b17dad47bf59f14c5ecec)
+3. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/84e5fc22ae0eac10f34fb4ad7fa04a598fc32d13)
+4. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/70c4f6c479c96551c7141db6144a5ecf7e869ec6)
+5. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/debb288d2483e903ea4e7728ae4edee2629c1e9a)
+6. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/82bca044d887561e1eebd22e3427cfc6622d57e4)
+7. 🎉 Created a new branch main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/tree/main)
+8. Added [EmiLearn/emilearn-platform](https://github.com/EmiLearn/emilearn-platform)
+9. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a6f6f22548162c60e246e5b281939b4ca18f8f7f)
+10. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/93784b9f085cdd822dbe5d6751c394d7c7da1820)
 <!--END_SECTION:activity-->
 
 ---
