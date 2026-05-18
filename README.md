@@ -57,16 +57,16 @@ www.thomasthorstensson.com
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/dcf2b346e348ab6a02b2e3daf8c9ff3db9d9b5db)
-2. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/f725ae6234f69ac0ac895fde7028a5d0988ec9e3)
-3. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/eab5e0cff9cd93418fde5832a197005ba7b9573a)
-4. 🎉 Created a new branch main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/tree/main)
-5. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/91edda068cd030bab9dd1eca6fd00936ae265753)
-6. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/70e2e97172815daa29b2258c4d84c1d150b235fa)
-7. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/0ccadb3eac2e6cf41d4b17dad47bf59f14c5ecec)
-8. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/84e5fc22ae0eac10f34fb4ad7fa04a598fc32d13)
-9. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/70c4f6c479c96551c7141db6144a5ecf7e869ec6)
-10. 📝 Committed to main in [thorstensson/mpthree](https://github.com/thorstensson/mpthree/commit/debb288d2483e903ea4e7728ae4edee2629c1e9a)
+1. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/2e9dfe241980e114a37301a0999583e3d6c1be0d)
+2. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/6e7007ca031f8c9454f83b8348b1ef45bcdf64b2)
+3. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/d2a3714badd674b2c48e180e479529cdb3cc0a94)
+4. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/ca0cd9eddacb54e839c646a77ad907640e910912)
+5. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/ed0aa178b2ec8b74bf39ebaecbb86fefb4b04b08)
+6. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/d9b97fd91a2f2a8b76e7d91d38ad983fd77ae422)
+7. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/dcf2b346e348ab6a02b2e3daf8c9ff3db9d9b5db)
+8. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/f725ae6234f69ac0ac895fde7028a5d0988ec9e3)
+9. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/eab5e0cff9cd93418fde5832a197005ba7b9573a)
+10. 🎉 Created a new branch main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/tree/main)
 <!--END_SECTION:activity-->
 
 ---
