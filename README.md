@@ -57,16 +57,16 @@ www.thomasthorstensson.com
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/bbb28c8f955d040495eed9e8d05002d8f0002b6a)
-2. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/6406dcf1a6fbabe8f0e293ead6a1bf2bd0c87187)
-3. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/dc3947a2f255957acbc64ca28b0b21815d57fa4c)
-4. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/08e5652c371cade86e3104716684104671837d60)
-5. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/0a157f8cd44009042e6900a7f58340e740c49971)
-6. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/009a5f66b5516f59342cd94f09a2b5234e865fa5)
-7. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/254cfdf2ea68e7ad510abd36be36f0ae8e9115c9)
-8. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/85bcfa04a78f1b1c61dcfb173ff701bfb79f9303)
-9. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/fb1bace076a3355f3260bd7f045a9361d025a2c5)
-10. 🎉 Created a new branch test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/tree/test)
+1. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/bffb2b887d4f5ee9d06c13e219397200cb8e1ddf)
+2. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/35a67a451fc3e0e675d4b7bb3b1dc090c18579ac)
+3. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/6caf8a8a38dfe765599bb375203c20d788cdd0b2)
+4. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/31409f1bcc59d125fbf63173d59afec4f5d663f4)
+5. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/a6da31a7a4615e2497f1a0b88e8198b2902476b6)
+6. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/58fb6a40f73064ebd336f16ef608e189f04a81bc)
+7. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/f6a26568f756e068df164e3a836f609b448cb602)
+8. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/694d9cd682d44491b6421b9848df3263e3af2957)
+9. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/bbb28c8f955d040495eed9e8d05002d8f0002b6a)
+10. 📝 Committed to test in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/6406dcf1a6fbabe8f0e293ead6a1bf2bd0c87187)
 <!--END_SECTION:activity-->
 
 ---
