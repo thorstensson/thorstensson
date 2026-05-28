@@ -57,16 +57,16 @@ www.thomasthorstensson.com
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f8fdeb346011ad7245c9792ee3546eca703a0fe1)
-2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/48e5f059690bbb6a7cd9d720606a4e7f4704a68c)
-3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/1fce3cd7e46dde4e61c22c1ac9fc37671c32c9a7)
-4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a23fda05c6c7ecf8302712f3fddc56a66caed443)
-5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a4b0052e5c13e2f0a95eb19ccf896d11af9ef63e)
-6. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/318744efce69f4e79107bc21a84eb26f44603127)
-7. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/925ebf4afc162841cad1810fafd78fe0604effba)
-8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/bbd7dcf13c02f2413d05a7bf1d2165a97b08f9be)
-9. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/27affa837e6c737abcfa4d234cceba5c07e5296f)
-10. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/7b2b429e2c844a6b76fb705d84a86e395a6ca4e1)
+1. Added a private repository
+2. Added a private repository
+3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f8fdeb346011ad7245c9792ee3546eca703a0fe1)
+4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/48e5f059690bbb6a7cd9d720606a4e7f4704a68c)
+5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/1fce3cd7e46dde4e61c22c1ac9fc37671c32c9a7)
+6. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a23fda05c6c7ecf8302712f3fddc56a66caed443)
+7. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/a4b0052e5c13e2f0a95eb19ccf896d11af9ef63e)
+8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/318744efce69f4e79107bc21a84eb26f44603127)
+9. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/925ebf4afc162841cad1810fafd78fe0604effba)
+10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/bbd7dcf13c02f2413d05a7bf1d2165a97b08f9be)
 <!--END_SECTION:activity-->
 
 ---
