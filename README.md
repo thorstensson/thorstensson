@@ -49,10 +49,12 @@ www.thomasthorstensson.com
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
-- A small component library based on Radix Vue, Turborepo & VueUse Motion :elephant:
-- Improving with Svelte.
+- Improving on old projects (PWA, Design, etc).
+- Composable library, distributed using Nuxt Layers.
 - Improving with Trigonometry.
+- Coming up with new features for CO2 Audit.
 - Spanish.
+- Life / Cafe sittings in Carmel / Applying for jobs.
 
 ---
 ### :zap: Recent Actions
