@@ -39,11 +39,12 @@
 
 ---
 ### About
-Creative Developer with two decades experience collaborating with startups and global agencies. Now seeking a stable, permanent role to commit to long-term in a friendly team. I specialize in the intersection of complex logic and high-end UI/UX.  Three.js/WebGL for interactive physics, and Nitro for server-side architecture. But my approach is framework-agnostic: JavaScript comes first. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hirearchy-minded, I like ambiguity and taking ownership of projects to nurture them to completion.
+Tanzanian Swede living in Barcelona. Consider me a creative frontend developer with an eye for modern design, and an interest in backend and data visualization. Now seeking a permanent role to commit to long-term in a friendly team. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hierarchy-minded, I thrive on ambiguity and ownership. And GitHub rocks!
 
-Signed "El Tomaso".
+Folio : https://www.thomasthorstensson.com | Build in public: https://www.co2audit.com
 
-www.thomasthorstensson.com
+Have a productive day.
+
 🐧
 
 ---
