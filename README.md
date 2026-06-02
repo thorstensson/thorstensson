@@ -9,6 +9,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-ffffff?style=for-the-badge&color=238636)
 ![Jest](https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&color=238636)
 ![Pinia](https://img.shields.io/badge/Pinia-ffffff?style=for-the-badge&color=238636)
+![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&color=238636)
 ![Axios](https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&color=238636)
 ![GraphQL](https://img.shields.io/badge/GraphQL-ffffff?style=for-the-badge&color=238636)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-ffffff?style=for-the-badge&color=238636)
