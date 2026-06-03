@@ -60,16 +60,16 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/7528ca14a9526ccc38a3849e97c7738097e1a777)
-2. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/6670fc94573341af0dce82631140735723ac4eb6)
-3. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a7ce4f6572f3d205357627962b46987c662c5b16)
-4. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a572c25626952a4571ed812f7ff6839d0a118f64)
-5. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/61bc768766606204a96e7b668c6eb7c2fbf7f184)
-6. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e108efc6ac5b66a5571ed9f661b0a9df2acb9f01)
-7. Added a private repository
-8. Added a private repository
-9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f8fdeb346011ad7245c9792ee3546eca703a0fe1)
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/48e5f059690bbb6a7cd9d720606a4e7f4704a68c)
+1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d48461433866f88d77f85466902305518e02b209)
+2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/d33aec701fe6b64308cbe569f7146bd633334563)
+3. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/7528ca14a9526ccc38a3849e97c7738097e1a777)
+4. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/6670fc94573341af0dce82631140735723ac4eb6)
+5. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a7ce4f6572f3d205357627962b46987c662c5b16)
+6. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/a572c25626952a4571ed812f7ff6839d0a118f64)
+7. 📝 Committed to main in [thorstensson/CO2-audit](https://github.com/thorstensson/CO2-audit/commit/61bc768766606204a96e7b668c6eb7c2fbf7f184)
+8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/e108efc6ac5b66a5571ed9f661b0a9df2acb9f01)
+9. Added a private repository
+10. Added a private repository
 <!--END_SECTION:activity-->
 
 ---
