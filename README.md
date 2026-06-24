@@ -63,13 +63,13 @@ Have a productive day.
 1. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/23d282aa0f2f0cd06914f7cf6bf7a5c5f7a33232)
 2. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/027402e5bd95cc2a9d6310fb02e62e1b9c6153c5)
 3. 🔀 Merged PR in a private repository
-4. 📥 Opened PR in a private repository
-5. 📝 Committed to feature-hero in a private repository
+4. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/28fe49a3f2eba2ab386971af3e38361151b8ba09)
+5. 📥 Opened PR in a private repository
 6. 📝 Committed to feature-hero in a private repository
 7. 📝 Committed to feature-hero in a private repository
 8. 📝 Committed to feature-hero in a private repository
-9. 🎉 Created a new branch feature-hero in a private repository
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b0d8aa275d5e0ed5a903b30162b5cdc38a77b7fd)
+9. 📝 Committed to feature-hero in a private repository
+10. 🎉 Created a new branch feature-hero in a private repository
 <!--END_SECTION:activity-->
 
 ---
