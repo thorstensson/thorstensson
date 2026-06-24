@@ -39,7 +39,7 @@
 
 ---
 ### About
-Tanzanian Swede living in Barcelona. Consider me a creative frontend developer with an eye for modern design, and an interest in backend and data visualization. Now seeking a permanent role to commit to long-term in a friendly team. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hierarchy-minded, I thrive on ambiguity and ownership. And GitHub rocks!
+Tanzanian Swede living in Barcelona. Consider me a creative frontend developer with an eye for modern design, and an interest in data visualization. Now seeking a permanent role to commit to long-term in a friendly team. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hierarchy-minded, I thrive on ambiguity and ownership. And GitHub rocks!
 
 Folio : https://www.thomasthorstensson.com | Build in public: https://www.co2audit.com
 
