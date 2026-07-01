@@ -61,15 +61,15 @@ Have a productive day.
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
 1. 📝 Committed to feature-registration in a private repository
-2. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/75ef982a145892b16ef6519f2addacd006da8b38)
-3. 🎉 Created a new branch feature-registration in a private repository
-4. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/21a10348e31cfde9961cd87dfb5a4845957060ea)
-5. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/79c92aca63ede9f50ecab1578190c52ed02e7579)
-6. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f4311eb0ca739ecb75003d7880c949ee2c67c508)
-7. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/23d282aa0f2f0cd06914f7cf6bf7a5c5f7a33232)
-8. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/027402e5bd95cc2a9d6310fb02e62e1b9c6153c5)
-9. 🔀 Merged PR in a private repository
-10. 📥 Opened PR in a private repository
+2. 📝 Committed to feature-registration in a private repository
+3. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/75ef982a145892b16ef6519f2addacd006da8b38)
+4. 🎉 Created a new branch feature-registration in a private repository
+5. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/21a10348e31cfde9961cd87dfb5a4845957060ea)
+6. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/79c92aca63ede9f50ecab1578190c52ed02e7579)
+7. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f4311eb0ca739ecb75003d7880c949ee2c67c508)
+8. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/23d282aa0f2f0cd06914f7cf6bf7a5c5f7a33232)
+9. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/027402e5bd95cc2a9d6310fb02e62e1b9c6153c5)
+10. 🔀 Merged PR in a private repository
 <!--END_SECTION:activity-->
 
 ---
