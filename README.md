@@ -60,16 +60,16 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/65ba264743c72efdbbea1f6fedb6f564edb05c13)
-2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/cf239cc5684e0d3021ae780ab5b75cd8a3d49d13)
-3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6f40a614370d01fc431c18477719b588025ee6f2)
-4. 📝 Committed to feature-registration in a private repository
+1. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d985eacecc6ce27b35d59546deeec33281fcb84f)
+2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/65ba264743c72efdbbea1f6fedb6f564edb05c13)
+3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/cf239cc5684e0d3021ae780ab5b75cd8a3d49d13)
+4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6f40a614370d01fc431c18477719b588025ee6f2)
 5. 📝 Committed to feature-registration in a private repository
-6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/75ef982a145892b16ef6519f2addacd006da8b38)
-7. 🎉 Created a new branch feature-registration in a private repository
-8. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/21a10348e31cfde9961cd87dfb5a4845957060ea)
-9. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/79c92aca63ede9f50ecab1578190c52ed02e7579)
-10. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/f4311eb0ca739ecb75003d7880c949ee2c67c508)
+6. 📝 Committed to feature-registration in a private repository
+7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/75ef982a145892b16ef6519f2addacd006da8b38)
+8. 🎉 Created a new branch feature-registration in a private repository
+9. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/21a10348e31cfde9961cd87dfb5a4845957060ea)
+10. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/79c92aca63ede9f50ecab1578190c52ed02e7579)
 <!--END_SECTION:activity-->
 
 ---
