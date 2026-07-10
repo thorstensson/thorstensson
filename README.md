@@ -60,16 +60,16 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aa007191dee1a9c0f5f1909a2c711d334c7def55)
-2. 📥 Opened PR in a private repository
-3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6ae542507e8deb7262addb956f7eee4cfc40b0b0)
-4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/de8ac878ac287292e17361621cbc68a9bf40c1e5)
-5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b9a4bd675eaab29bedb9216e63b912b3e60ee15b)
-6. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d985eacecc6ce27b35d59546deeec33281fcb84f)
-7. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/65ba264743c72efdbbea1f6fedb6f564edb05c13)
-8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/cf239cc5684e0d3021ae780ab5b75cd8a3d49d13)
-9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6f40a614370d01fc431c18477719b588025ee6f2)
-10. 📝 Committed to feature-registration in a private repository
+1. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/7529f0f28cda0b08e05112a6eff7946c9789c606)
+2. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/956f59632733d98161b3eb7e8f69de8d1345754d)
+3. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/816e758da4562e196f12da491283303ee0c04d9e)
+4. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/4f323549d570d254141a4532e91047d65121b370)
+5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aa007191dee1a9c0f5f1909a2c711d334c7def55)
+6. 📥 Opened PR in a private repository
+7. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6ae542507e8deb7262addb956f7eee4cfc40b0b0)
+8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/de8ac878ac287292e17361621cbc68a9bf40c1e5)
+9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/b9a4bd675eaab29bedb9216e63b912b3e60ee15b)
+10. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/d985eacecc6ce27b35d59546deeec33281fcb84f)
 <!--END_SECTION:activity-->
 
 ---
