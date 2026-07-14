@@ -60,16 +60,16 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/477ceadb91a0579f93347179978c471f3ce80acb)
-2. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/c017e0f27f634752bda5cb14b3ec05a03c6e0207)
-3. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/b5c366b0f2adc6209c121f0d6e3d534fa1b05221)
-4. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/7529f0f28cda0b08e05112a6eff7946c9789c606)
-5. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/956f59632733d98161b3eb7e8f69de8d1345754d)
-6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/816e758da4562e196f12da491283303ee0c04d9e)
-7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/4f323549d570d254141a4532e91047d65121b370)
-8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aa007191dee1a9c0f5f1909a2c711d334c7def55)
-9. 📥 Opened PR in a private repository
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/6ae542507e8deb7262addb956f7eee4cfc40b0b0)
+1. 🔀 Merged PR in a private repository
+2. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/477ceadb91a0579f93347179978c471f3ce80acb)
+3. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/c017e0f27f634752bda5cb14b3ec05a03c6e0207)
+4. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/b5c366b0f2adc6209c121f0d6e3d534fa1b05221)
+5. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/7529f0f28cda0b08e05112a6eff7946c9789c606)
+6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/956f59632733d98161b3eb7e8f69de8d1345754d)
+7. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/816e758da4562e196f12da491283303ee0c04d9e)
+8. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/4f323549d570d254141a4532e91047d65121b370)
+9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aa007191dee1a9c0f5f1909a2c711d334c7def55)
+10. 📥 Opened PR in a private repository
 <!--END_SECTION:activity-->
 
 ---
