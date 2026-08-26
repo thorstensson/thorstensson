@@ -68,8 +68,6 @@ Have a productive day.
 6. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2f4d973bacee8a2fd34d603c438d3f8e9d86b21d)
 7. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/511b0fe283c6addfed67292c0f5ca009a3dde1f8)
 8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f0b0aeb8bf520c1b0bcc7e0e1203ab516c5e3e12)
-9. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/66c73a5d1e269328298275f7e64b67f822b562fa)
-10. 📝 Committed to main in [thorstensson/mp3playerp5](https://github.com/thorstensson/mp3playerp5/commit/30afa21eda03e6d44b86f0e977542ff0287c3f6c)
 <!--END_SECTION:activity-->
 
 ---
