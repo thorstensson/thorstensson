@@ -67,9 +67,6 @@ Have a productive day.
 5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aeb193dfabe2a7f44dcbf576cd840f4eba01cb9b)
 6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/d6900f31e9b718bec7b0ae33ecbd073ad43f4410)
 7. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/568eedcdfc35ea97d7e5cf24880bdd057d0b3c9a)
-8. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2f4d973bacee8a2fd34d603c438d3f8e9d86b21d)
-9. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/511b0fe283c6addfed67292c0f5ca009a3dde1f8)
-10. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f0b0aeb8bf520c1b0bcc7e0e1203ab516c5e3e12)
 <!--END_SECTION:activity-->
 
 ---
