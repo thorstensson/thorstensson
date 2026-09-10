@@ -60,12 +60,10 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/de2075ad7f7108c5e70d9c74f066d5cf13b218fa)
-2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/09182dfd56dfaf1c61fbca5c184a1c88ecb079f7)
-3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2d5a7418b57a3ef96d261d3f269e1905d8f2ccc5)
-4. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/af6ebc4e51205ce4c9105abcfd66a11058c1fdc6)
-5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/aeb193dfabe2a7f44dcbf576cd840f4eba01cb9b)
-6. 📝 Committed to main in [thorstensson/nasa-apod](https://github.com/thorstensson/nasa-apod/commit/d6900f31e9b718bec7b0ae33ecbd073ad43f4410)
+1. 📝 Committed to main in [thorstensson/palestine-awareness](https://github.com/thorstensson/palestine-awareness/commit/ba8af13ff0fe78d9014a637db5c73af536cc464d)
+2. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/de2075ad7f7108c5e70d9c74f066d5cf13b218fa)
+3. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/09182dfd56dfaf1c61fbca5c184a1c88ecb079f7)
+4. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/2d5a7418b57a3ef96d261d3f269e1905d8f2ccc5)
 <!--END_SECTION:activity-->
 
 ---
