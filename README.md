@@ -50,7 +50,7 @@ Have a productive day.
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
-- Improving on old projects (PWA, Design, etc).
+- Obsision: A retro shoot-'em-up inspired by C64: Delta, Nemesis. All graphics by me, crafted in Asesprite. Repo will go public when game / game site launches.
 - Composable library, distributed using Nuxt Layers.
 - Improving with Trigonometry.
 - Coming up with new features for CO2 Audit.
