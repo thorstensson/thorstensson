@@ -49,8 +49,9 @@ Have a productive day.
 ---
 ### Recent stuff
 🔭 I’m currently working on ... 
-- A retro shoot-'em-up inspired by C64: Delta, Nemesis. All graphics by me, crafted in Asesprite. Repo will go public when game / game site launches. Phaser js.
+- A retro shoot-'em-up inspired by C64: Delta, Nemesis, Armalyte. All graphics by me, crafted in Asesprite & Tiled, engine is Phaser. Repo will go public when game / game site launches.
 - Coming up with new features for CO2 Audit.
+- Components for my UI library miniml-ui.
 - Life.
 
 ---
