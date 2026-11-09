@@ -66,7 +66,7 @@ Have a productive day.
 7. 📝 Committed to main in a private repository
 8. 📝 Committed to main in a private repository
 9. 📝 Committed to main in a private repository
-10. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/67af9e4defe4c4a63ead753a1f9290f661fad9e2)
+10. 📝 Committed to main in a private repository
 <!--END_SECTION:activity-->
 
 ---
