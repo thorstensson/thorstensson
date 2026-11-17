@@ -57,16 +57,16 @@ Have a productive day.
 ---
 ### :zap: Recent Actions
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/99e0d0520265970b9c05a68f9bf073e3a0b32758)
-2. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/fb3094ec74c20e0c16f9419cbb65654f2ce46ff4)
-3. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/b7ba8e1fe4c04e5ce642de237e734a06c64a3bf8)
-4. 🌍 Made repository public [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game)
-5. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/900c2ff210b0bea2521e033ab69e85a72af992bf)
-6. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/08fc099bab9c9a37e698b46da5135eb22cfcdb58)
-7. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/9e5c07915f0822f439a90e6518e7505f0f791bfe)
-8. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/75b9498627fd523f6865bd082d24375960997584)
-9. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/1a44e1e336932ad7641d756c208665d6239ffd1e)
-10. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/1538ff07ca0edbdeaa34000a8d895d1e75b97239)
+1. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/75771e689b803c3f45695417e7dd3111e00ba824)
+2. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/b116ad98107deb957db492239d2f5aa7d9a215c8)
+3. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/99e0d0520265970b9c05a68f9bf073e3a0b32758)
+4. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/fb3094ec74c20e0c16f9419cbb65654f2ce46ff4)
+5. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/b7ba8e1fe4c04e5ce642de237e734a06c64a3bf8)
+6. 🌍 Made repository public [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game)
+7. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/900c2ff210b0bea2521e033ab69e85a72af992bf)
+8. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/08fc099bab9c9a37e698b46da5135eb22cfcdb58)
+9. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/9e5c07915f0822f439a90e6518e7505f0f791bfe)
+10. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/75b9498627fd523f6865bd082d24375960997584)
 <!--END_SECTION:activity-->
 
 ---
