@@ -32,7 +32,7 @@
 
 
 ---
-#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Penguin/3D/penguin_3d.png" width="20"> About
+#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Penguin/3D/penguin_3d.png" width="24"> About
 Tanzanian Swede living in Barcelona. Consider me a creative frontend developer with an eye for modern design, and an interest in data visualization. Now seeking a permanent role to commit to long-term in a friendly team. As a person I prefer inspiring websites and forums over social media, learning over likes. Goal driven and flat hierarchy-minded, I thrive on ambiguity and ownership. And GitHub rocks!
 
 Folio : https://www.thomasthorstensson.com | Build in public: https://www.co2audit.com
@@ -42,7 +42,7 @@ Have a productive day.
 🐧
 
 ---
-#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="20"> Recent stuff
+#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="24"> Recent stuff
 🔭 I’m currently working on ... 
 - A retro shoot-'em-up inspired by C64: Delta, Nemesis, Armalyte. All graphics by me, crafted in Asesprite & Tiled, engine is Phaser. Repo will go public when game / game site launches.
 - Coming up with new features for CO2 Audit.
@@ -50,7 +50,7 @@ Have a productive day.
 - Life.
 
 ---
-#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="20"> Recent Actions
+#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="24"> Recent Actions
 <!--START_SECTION:activity-->
 1. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/23f122ef92f10bf2d3f89bdc7e460696fb3cc3ef)
 2. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/fca80ed7ad69dd63c486b256c628359f3bb0241a)
@@ -65,7 +65,7 @@ Have a productive day.
 <!--END_SECTION:activity-->
 
 ---
-#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Pencil/3D/pencil_3d.png" width="20"> Latest Blog Posts
+#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Pencil/3D/pencil_3d.png" width="24"> Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Aristotle’s App](https://thomasthorstensson.com/blog-post/aristotles-app)
 - [Nuxt: Three paths to GraphQL](https://thomasthorstensson.com/blog-post/three-approaches-to-graphql-in-nuxt)
@@ -75,7 +75,7 @@ Have a productive day.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chess%20pawn/3D/chess_pawn_3d.png" width="20"> Other stuff
+#### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chess%20pawn/3D/chess_pawn_3d.png" width="24"> Other stuff
 💼 I’m looking for Full-Time Opportunities/roles.<br>
 ♟ I play a lot of chess, and I am 2100+ rated (ugh) on chess.com and trying to improve.
 
