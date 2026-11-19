@@ -43,7 +43,7 @@ Have a productive day.
 
 ---
 #### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="24"> Recent stuff
-🔭 I’m currently working on ... 
+I’m currently working on ... 
 - A retro shoot-'em-up inspired by C64: Delta, Nemesis, Armalyte. All graphics by me, crafted in Asesprite & Tiled, engine is Phaser. Repo will go public when game / game site launches.
 - Coming up with new features for CO2 Audit.
 - Components for my UI library miniml-ui.
