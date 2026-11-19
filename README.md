@@ -70,6 +70,11 @@ Have a productive day.
 <!--END_SECTION:activity-->
 
 ---
+### :pencil2: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 ### Other stuff
 💼 I’m looking for Full-Time Opportunities/roles.<br>
 ♟ I play a lot of chess, and I am 2100+ rated (ugh) on chess.com and trying to improve.
