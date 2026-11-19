@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/e91073e8-794b-4be7-9936-c27394f23d67" alt="Thomas Thorstensson" width="100%">
+
+&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white)
