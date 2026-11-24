@@ -63,11 +63,11 @@ Play: https://www.phaser-game.io
 ---
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt: Page Transitions + Middleware](https://thomasthorstensson.com/blog-post/nuxt-transitions)
 - [Aristotle’s App](https://thomasthorstensson.com/blog-post/aristotles-app)
 - [Nuxt: Three paths to GraphQL](https://thomasthorstensson.com/blog-post/three-approaches-to-graphql-in-nuxt)
 - [Thoughts on AI](https://thomasthorstensson.com/blog-post/thoughts-on-ai)
 - [Brassaï: Paris by Night](https://thomasthorstensson.com/blog-post/brassai)
-- [Anders Petersen & Friends](https://thomasthorstensson.com/blog-post/petersen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
