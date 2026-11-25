@@ -48,8 +48,8 @@ Play: https://www.phaser-game.io
 ---
 ###
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/8473780e686212e8345efb4f642a93d0bd44fc0f)
-2. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/511efecfc86b05a3c10dc0dc563e2e0af11e61e9)
+1. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/00718e3a6361c352175b958657cb89e9c5b153bc)
+2. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/8473780e686212e8345efb4f642a93d0bd44fc0f)
 3. 📝 Committed to main in [thorstensson/thorstensson](https://github.com/thorstensson/thorstensson/commit/61d291113622d45141432eb7ab9fd910cb36f5a3)
 4. 📝 Committed to main in [thorstensson/paradox-game](https://github.com/thorstensson/paradox-game/commit/01c09c76a3fdc09b2def93a6816b6fbb92fc62c3)
 5. 📝 Committed to main in [thorstensson/portfolio-thomas](https://github.com/thorstensson/portfolio-thomas/commit/f44e0224ef57ad2f3104746e71522d94d3fb9114)
